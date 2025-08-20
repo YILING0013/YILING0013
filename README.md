@@ -25,7 +25,7 @@
 - 🔭 I am currently a **student**
 - 🌱 I'm currently learning **WinUI, Blender, Unreal Engine**
 - 💬 Ask me about **React, C#, Python**
-- 📫 How to reach me: **1@idlecloud.cc**
+- 📫 How to reach me: **hello@yihan.art**
 
 #### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,20 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiling0013&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://space.bilibili.com/487156342" target="_blank">
-    <img src="https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="BiliBili" />
-  </a>
-  <a href="https://afdian.com/a/lingyunfei" target="_blank">
-    <img src="https://img.shields.io/badge/afdian-946CE6?style=for-the-badge&logo=afdian&logoColor=white" alt="Afdian" />
-  </a>
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=CdpNbaIcbz34wRENnz51fq4cmn8w97_u&authKey=lWSd%2BdH732ZphzYm6of0vZOq2k16qOUfHTK19kWRaJ73%2BdtcVBzWLHdYcVPo2Z5V&noverify=0&group_code=619176101" target="_blank">
-    <img src="https://img.shields.io/badge/qq-1EBAFC?style=for-the-badge&logo=qq&logoColor=white" alt="QQ" />
-  </a>
-</div>
-
 ## 🎵 Now Playing
 
 <div align="center">
@@ -93,17 +79,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yxxvsjaknvru2lfjlc67bn6s3a&width=600" alt="Spotify recently played" />
   </a>
 </div>
-
-## 📅 Coding Time
-
-<!--START_SECTION:waka-->
-```text
-C#          12 hrs 30 mins  ████████████▒░░░░░░░  58.3%
-Python      5 hrs 15 mins   █████▒░░░░░░░░░░░░░░  24.5%
-JavaScript  2 hrs 10 mins   ████░░░░░░░░░░░░░░░░  10.1%
-HTML/CSS    1 hr 30 mins    ███░░░░░░░░░░░░░░░░░   7.1%
-```
-<!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
