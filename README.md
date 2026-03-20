@@ -25,7 +25,7 @@
 - 🔭 I am currently a **student**
 - 🌱 I'm currently learning **WinUI, Blender, Unreal Engine**
 - 💬 Ask me about **React, C#, Python**
-- 📫 How to reach me: **hello@yihan.art**
+- 📫 How to reach me: **yihan.idlecloud@gmail.com**
 
 #### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
