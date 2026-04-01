@@ -17,14 +17,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
-<!-- 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- -->
+
 <img align="right" width="400" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Random Dev Quote" />
 
 - 🔭 I am currently a **student**
-- 🌱 I'm currently learning **WinUI, Blender, Unreal Engine**
-- 💬 Ask me about **React, C#, Python**
+- 🌱 I'm currently learning **Blender, Unreal Engine**
+- 💬 Ask me about **C++, C#, Python**
 - 📫 How to reach me: **yihan.idlecloud@gmail.com**
 
 #### 👨‍💻 Programming Languages
@@ -70,14 +68,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiling0013&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</div>
-
-## 🎵 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31yxxvsjaknvru2lfjlc67bn6s3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yxxvsjaknvru2lfjlc67bn6s3a&width=600" alt="Spotify recently played" />
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
