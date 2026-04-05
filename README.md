@@ -54,14 +54,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=yiling0013&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  
-  <!-- <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yiling0013&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> -->
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiling0013&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=yiling0013&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yiling0013&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
@@ -74,11 +67,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
 
 ---
