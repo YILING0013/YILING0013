@@ -20,7 +20,6 @@
 
 <img align="right" width="400" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Random Dev Quote" />
 
-- 🔭 I am currently a **student**
 - 🌱 I'm currently learning **Blender, Unreal Engine**
 - 💬 Ask me about **C++, C#, Python**
 - 📫 How to reach me: **yihan.idlecloud@gmail.com**
