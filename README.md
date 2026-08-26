@@ -22,7 +22,7 @@
 
 - 🌱 I'm currently learning **Blender, Unreal Engine**
 - 💬 Ask me about **C++, C#, Python**
-- 📫 How to reach me: **yihan.idlecloud@gmail.com**
+- 📫 How to reach me: **sparxie.yilin@gmail.com**
 
 #### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
