@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244" role="img" aria-labelledby="title desc">
+<title id="title">YILING0013 — Developer and open-source builder</title>
+<desc id="desc">Practical tools. Creative possibilities. AI, web, and desktop.</desc>
+<style>:root{--background:#f6f9f8;--text:#172c29;--muted:#536c65;--border:#d8e6df;--accent:#16856f;--glow:#e3f2e8}@media(prefers-color-scheme:dark){:root{--background:#101b20;--text:#ecf5ef;--muted:#a0b6ac;--border:#293e3b;--accent:#63d5b0;--glow:#1c3b33}}</style>
+<defs><radialGradient id="glow"><stop stop-color="var(--glow)"/><stop offset="1" stop-color="var(--background)"/></radialGradient>
+<clipPath id="clip"><rect width="480" height="244" rx="18"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect width="480" height="244" fill="var(--background)"/>
+<g transform="translate(196 -70) scale(0.54)" fill="none">
+<circle cx="211" cy="132" r="188" fill="url(#glow)"/>
+<circle cx="64" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="64" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="92" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="120" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="148" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="176" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="204" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="232" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="260" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="288" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<circle cx="316" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
+<path d="M 20,204 C 103,212 117,93 191,96 S 292,182 364,48" stroke="var(--accent)" stroke-width="1" opacity="0.170"/>
+<path d="M 20,217 C 103,225 117,106 191,109 S 292,195 364,61" stroke="var(--accent)" stroke-width="1" opacity="0.205"/>
+<path d="M 20,230 C 103,238 117,119 191,122 S 292,208 364,74" stroke="var(--accent)" stroke-width="1" opacity="0.240"/>
+<path d="M 20,243 C 103,251 117,132 191,135 S 292,221 364,87" stroke="var(--accent)" stroke-width="1.6" opacity="0.780"/>
+<path d="M 20,256 C 103,264 117,145 191,148 S 292,234 364,100" stroke="var(--accent)" stroke-width="1" opacity="0.310"/>
+<path d="M 20,269 C 103,277 117,158 191,161 S 292,247 364,113" stroke="var(--accent)" stroke-width="1" opacity="0.345"/>
+<path d="M 20,282 C 103,290 117,171 191,174 S 292,260 364,126" stroke="var(--accent)" stroke-width="1" opacity="0.380"/>
+<path d="M 20,295 C 103,303 117,184 191,187 S 292,273 364,139" stroke="var(--accent)" stroke-width="1" opacity="0.415"/>
+<circle cx="191" cy="135" r="4" fill="var(--background)" stroke="var(--accent)" stroke-width="1.5"/>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+<text x="28" y="47" fill="var(--accent)" font-size="11" font-weight="600" letter-spacing="2.3">DEVELOPER / OPEN SOURCE</text>
+<text x="26" y="108" fill="var(--text)" font-size="46" font-weight="600" letter-spacing="-2.5">YILING0013</text>
+<text x="28" y="148" fill="var(--muted)" font-size="17">Practical tools. Creative possibilities.</text>
+<path d="M 28,193 h 27" stroke="var(--accent)" stroke-width="2"/>
+<text x="67" y="197" fill="var(--muted)" font-size="11" letter-spacing="1.6">AI / WEB / DESKTOP</text>
+</g></g>
+<rect x="0.5" y="0.5" width="479" height="243" rx="17.5" fill="none" stroke="var(--border)"/>
+</svg>
