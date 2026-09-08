@@ -1,75 +1,34 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm YILING0013
+# YILING0013
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat+%E2%98%95" alt="Typing SVG" />
-</div>
+Building practical tools for **AI, the web, and the desktop**.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yiling0013&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/yiling0013?tab=followers">
-    <img src="https://img.shields.io/github/followers/yiling0013?label=Followers&style=for-the-badge&color=ff6b6b" alt="followers" />
-  </a>
-  <a href="https://github.com/yiling0013?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repos-30+-blue?style=for-the-badge" alt="repos" />
-  </a>
-</div>
+[Email](mailto:sparxie.yilin@gmail.com) · [All repositories](https://github.com/YILING0013?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Selected work
 
-## 🚀 About Me
+**[AI Novel Generator](https://github.com/YILING0013/AI_NovelGenerator)**<br>
+Long-form AI storytelling with connected chapters, context, and foreshadowing.
 
-<img align="right" width="400" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Random Dev Quote" />
+**[ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon)**<br>
+A small WinUI 3 app to give your Windows folders a personal touch.
 
-- 🌱 I'm currently learning **Blender, Unreal Engine**
-- 💬 Ask me about **C++, C#, Python**
-- 📫 How to reach me: **sparxie.yilin@gmail.com**
+**[Shortcut Hint](https://github.com/YILING0013/Shortcut_Hint)**<br>
+A desktop shortcut helper for keyboard-heavy applications.
 
-#### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**[NovelAI Local Web](https://github.com/YILING0013/novelai_local_web)**<br>
+A local web interface for NovelAI image generation.
 
-#### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Toolbox
 
-#### 🔧 Backend Development
-![Node.js](https://img.shields.io/badge/nodedotjs-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+`Python` · `TypeScript / JavaScript` · `C# / C++`<br>
+`React / Next.js` · `Flask` · `Git / Linux`
 
-#### 🔨 Tools & Others
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br clear="both">
+Currently exploring **Blender** and **Unreal Engine**.
 
-## 📊 GitHub Statistics
+### Contribution activity
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yiling0013&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiling0013&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff" alt="Footer" />
-</div>
-
----
-
-<div align="center">
-  <b>⭐ Star my repositories if you find them interesting!</b>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg">
+  <img alt="GitHub contribution activity over the last 30 complete UTC days, updated daily." src="./assets/activity-light.svg" width="100%">
+</picture>
