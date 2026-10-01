@@ -91,13 +91,6 @@
 
 <sub>也在探索 Blender 与 Unreal Engine。</sub>
 
-<details>
-<summary>芙宁娜的绘制过程</summary>
-
 <p align="center">
-  <img src="./assets/furina-drawing.svg" width="520" alt="芙宁娜 SVG 绘制回放：从构图、线稿到铺色、五官和细节，按图层顺序循环演示。">
+  <img src="./assets/furina-drawing.svg" width="520" alt="芙宁娜 SVG">
 </p>
-
-<sub>按图层编排的重绘演示，循环播放。</sub>
-
-</details>
