@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-01T07:21:27.246566+00:00",
+  "generated_at": "2026-10-01T09:38:40.237082+00:00",
   "period": {
     "start": "2025-10-01",
     "end": "2026-09-30",
@@ -32,7 +32,7 @@
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 9040712
+    "language_bytes": 9077676
   },
   "repositories": [
     {
@@ -135,7 +135,7 @@
       "stars": 2,
       "forks": 0,
       "languages": {
-        "Python": 12224
+        "Python": 49188
       }
     },
     {
@@ -198,82 +198,82 @@
     {
       "name": "C",
       "bytes": 3123467,
-      "percent": 34.54890499774797
+      "percent": 34.408222985706914
     },
     {
       "name": "JavaScript",
       "bytes": 2006359,
-      "percent": 22.192488821676875
+      "percent": 22.102121732478665
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 14.483184510246538
+      "percent": 14.424209456252902
     },
     {
       "name": "Python",
-      "bytes": 1225940,
-      "percent": 13.560215168893777
+      "bytes": 1262904,
+      "percent": 13.912195147744862
     },
     {
       "name": "TypeScript",
       "bytes": 407975,
-      "percent": 4.5126423671056
+      "percent": 4.494267034866634
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 4.280636303866333
+      "percent": 4.263205692734572
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 2.5860795034727353
+      "percent": 2.575549072251532
     },
     {
       "name": "CSS",
       "bytes": 141258,
-      "percent": 1.5624654341383732
+      "percent": 1.5561031259542641
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.8792338479535682
+      "percent": 0.8756536364593757
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.8680842836272188
+      "percent": 0.8645494727945787
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.20839066657581837
+      "percent": 0.20754210659203964
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.13317535167584146
+      "percent": 0.13263306599618668
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.09092204242320737
+      "percent": 0.09055181083792813
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.055150523542836005
+      "percent": 0.054925952413371004
     },
     {
       "name": "Batchfile",
       "bytes": 2218,
-      "percent": 0.024533465948257175
+      "percent": 0.024433566476706154
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.013892711105054559
+      "percent": 0.013836140439469308
     }
   ],
   "days": [
