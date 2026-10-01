@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="74" height="28" role="img" aria-label="Flask"><rect x="0.5" y="0.5" width="73" height="27" rx="7" fill="#18342e" stroke="#2a5044"/><circle cx="13" cy="14" r="2.5" fill="#78cda9"/><text x="23" y="18" fill="#dcf3e6" font-family="Segoe UI, sans-serif" font-size="12">Flask</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="30" viewBox="0 0 85 30" role="img" aria-label="Flask">
+<rect x=".5" y=".5" width="84" height="29" rx="7" fill="#f6fafc" stroke="#deebf2"/>
+<g transform="translate(8 5)" fill="none" color="#589a9b" stroke="#589a9b" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h6m-5 0v6l-5 7q-1 2 2 2h10q3 0 2-2l-5-7V3M6 13h8"/><circle cx="9" cy="15.5" r=".4" fill="currentColor"/></g>
+<text x="35" y="19" fill="#405c71" font-family="Segoe UI,sans-serif" font-size="12">Flask</text>
+</svg>

@@ -1,98 +1,148 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244" role="img" aria-labelledby="title desc">
-<title id="title">YILING0013 — Developer and open-source builder</title>
-<desc id="desc">Practical tools. Creative possibilities. AI, web, and desktop.</desc>
-<style>:root{--background:#f6f9f8;--text:#172c29;--muted:#536c65;--border:#d8e6df;--accent:#16856f;--glow:#e3f2e8}@media(prefers-color-scheme:dark){:root{--background:#101b20;--text:#ecf5ef;--muted:#a0b6ac;--border:#293e3b;--accent:#63d5b0;--glow:#1c3b33}}</style>
-<defs><radialGradient id="glow"><stop stop-color="var(--glow)"/><stop offset="1" stop-color="var(--background)"/></radialGradient>
-<clipPath id="clip"><rect width="480" height="244" rx="18"/></clipPath></defs>
-<g clip-path="url(#clip)"><rect width="480" height="244" fill="var(--background)"/>
-<g transform="translate(196 -70) scale(0.54)" fill="none">
-<circle cx="211" cy="132" r="188" fill="url(#glow)"/>
-<circle cx="64" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="43" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="72" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="101" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="130" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="159" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="188" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="64" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="92" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="120" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="148" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="176" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="204" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="232" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="260" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="288" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<circle cx="316" cy="217" r="1" fill="var(--accent)" opacity="0.18"/>
-<path d="M 20,204 C 103,212 117,93 191,96 S 292,182 364,48" stroke="var(--accent)" stroke-width="1" opacity="0.170"/>
-<path d="M 20,217 C 103,225 117,106 191,109 S 292,195 364,61" stroke="var(--accent)" stroke-width="1" opacity="0.205"/>
-<path d="M 20,230 C 103,238 117,119 191,122 S 292,208 364,74" stroke="var(--accent)" stroke-width="1" opacity="0.240"/>
-<path d="M 20,243 C 103,251 117,132 191,135 S 292,221 364,87" stroke="var(--accent)" stroke-width="1.6" opacity="0.780"/>
-<path d="M 20,256 C 103,264 117,145 191,148 S 292,234 364,100" stroke="var(--accent)" stroke-width="1" opacity="0.310"/>
-<path d="M 20,269 C 103,277 117,158 191,161 S 292,247 364,113" stroke="var(--accent)" stroke-width="1" opacity="0.345"/>
-<path d="M 20,282 C 103,290 117,171 191,174 S 292,260 364,126" stroke="var(--accent)" stroke-width="1" opacity="0.380"/>
-<path d="M 20,295 C 103,303 117,184 191,187 S 292,273 364,139" stroke="var(--accent)" stroke-width="1" opacity="0.415"/>
-<circle cx="191" cy="135" r="4" fill="var(--background)" stroke="var(--accent)" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="422" viewBox="0 0 480 422" role="img" aria-labelledby="title description">
+<title id="title">YILING0013</title>
+<desc id="description">AI 创作与桌面工具。右侧为根据用户提供图片逐层重绘的芙宁娜 SVG。</desc>
+<defs><clipPath id="header-frame"><rect width="480" height="422" rx="16"/></clipPath></defs>
+<g clip-path="url(#header-frame)">
+<rect width="480" height="422" fill="#f3f9fd"/>
+<circle cx="264" cy="280" r="120" fill="#e2f2fa"/>
+<circle cx="451" cy="380" r="5" fill="none" stroke="#bcdeee" stroke-width="1.5"/>
+<circle cx="416" cy="38" r="9" fill="none" stroke="#c5e3ee" stroke-width="1.5"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif">
+<text x="26" y="61" font-size="41" fill="#24394c" font-weight="650" letter-spacing="-2">YILING0013</text>
+<text x="28" y="98" font-size="18" fill="#50718c">做一些实用，也有趣的小工具。</text>
+
 </g>
-<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-<text x="28" y="47" fill="var(--accent)" font-size="11" font-weight="600" letter-spacing="2.3">DEVELOPER / OPEN SOURCE</text>
-<text x="26" y="108" fill="var(--text)" font-size="46" font-weight="600" letter-spacing="-2.5">YILING0013</text>
-<text x="28" y="148" fill="var(--muted)" font-size="17">Practical tools. Creative possibilities.</text>
-<path d="M 28,193 h 27" stroke="var(--accent)" stroke-width="2"/>
-<text x="67" y="197" fill="var(--muted)" font-size="11" letter-spacing="1.6">AI / WEB / DESKTOP</text>
-</g></g>
-<rect x="0.5" y="0.5" width="479" height="243" rx="17.5" fill="none" stroke="var(--border)"/>
+<svg x="127" y="105" width="277" height="312" viewBox="0 0 658 728">
+  <title id="furina-title">芙宁娜 · 张开双臂</title>
+  <desc id="furina-desc">按提供的参考图手绘的透明背景矢量人物：银白长发、大呆毛、蓝紫水滴眼睛、微笑，身穿金边深蓝礼服，张开双臂。</desc>
+  <defs>
+    <linearGradient id="furina-iris" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#555197"/><stop offset=".5" stop-color="#8a80ce"/><stop offset="1" stop-color="#a3d9ef"/></linearGradient>
+    <linearGradient id="furina-gem" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#365ead"/><stop offset=".48" stop-color="#2eafd3"/><stop offset="1" stop-color="#b6f3f2"/></linearGradient>
+    <radialGradient id="furina-blush"><stop stop-color="#f3b7c4" stop-opacity=".58"/><stop offset="1" stop-color="#f3b7c4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="furina-sleeve" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#59759f"/><stop offset="1" stop-color="#3d527e"/></linearGradient>
+  </defs>
+  <g stroke="#444858" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 呆毛保留参考图中向左舒展的大弧线。 -->
+    <g id="furina-ahoge">
+      <path d="M224 202C153 205 104 174 109 114 112 77 141 29 179 13 210-1 234 6 257 21 223 8 193 8 171 32 142 64 133 101 140 133 148 171 177 190 224 202Z" fill="#fffefe"/>
+      <path d="M169 29C145 55 129 86 131 116 132 142 142 161 155 172 127 130 132 81 169 29Z" fill="#aedbec" stroke="none"/>
+    </g>
+
+    <!-- 后发在脸和礼服之后，卷曲发尾形成两侧轮廓。 -->
+    <g id="furina-back-hair">
+      <path d="M196 215C235 184 270 166 313 158 363 148 408 164 446 184 497 209 532 249 554 286 576 323 599 346 628 345 619 363 603 371 583 365 601 391 619 426 617 455 616 482 599 493 604 509 583 516 565 511 560 500 552 526 529 544 504 554 474 572 443 577 406 570 365 566 332 545 294 547 248 550 223 562 185 545 154 531 145 502 151 475 124 506 108 519 95 495 110 501 118 495 122 481 94 485 75 472 71 450 64 425 92 395 109 365 91 373 76 369 62 357 100 357 125 329 139 298 154 263 166 234 196 215Z" fill="#fafcfd"/>
+      <path d="M563 347C590 388 604 422 588 455 587 477 573 489 563 502 554 521 534 534 509 541L473 553 434 543 399 532 385 508 449 449 473 362 510 325Z" fill="#a6cfe6" stroke="none"/>
+      <path d="M554 377C580 398 584 423 574 443 561 463 548 455 540 480 537 503 525 514 509 518M583 443C592 467 586 487 577 500" fill="none"/>
+      <path d="M121 396C104 420 96 447 110 466 125 483 135 470 150 450L172 422 176 480 221 522 279 539C243 551 223 550 190 541 160 531 149 509 157 479 133 501 124 511 111 506 137 479 127 459 121 437Z" fill="#acd6e9" stroke="none"/>
+      <path d="M102 480C113 488 126 487 136 476M152 476C161 467 167 455 170 445" fill="none"/>
+      <path d="M228 625C191 647 168 685 164 728H251C231 698 237 660 228 625Z" fill="#f9fcfd"/>
+      <path d="M213 645C190 675 181 699 180 728H218C213 701 218 676 228 656" fill="#a8d4e8" stroke="none"/>
+      <path d="M474 629C497 620 505 637 513 657L518 686Q535 689 530 707L536 728H448L445 667Z" fill="#88aed9"/>
+      <path d="M473 650C484 664 489 682 489 704M507 699l10 6" fill="none" stroke="#567196"/>
+    </g>
+
+    <!-- 张开的宽袖、手套和金色袖口；边缘手指在画布内闭合。 -->
+    <g id="furina-arms">
+      <path d="M278 541C240 548 198 548 145 550L103 543 74 562 78 600C124 611 173 613 216 605L267 581Z" fill="url(#furina-sleeve)"/>
+      <path d="M412 529C454 529 506 529 554 525L607 508 639 532 645 575C596 585 543 587 499 584L433 577Z" fill="url(#furina-sleeve)"/>
+      <path d="M43 547C34 545 31 536 28 526L20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 49 580Z" fill="#424365"/>
+      <path d="M13 537l14 21M22 531l10 20M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+      <path d="M47 541Q54 537 59 547L61 605Q59 618 51 617 41 616 43 605L43 591Q33 593 32 585L37 567Q31 555 39 552Z" fill="#4b4b8a"/>
+      <path d="M38 555l-7 18 5 15 9 3" fill="none" stroke="#ded5b5" stroke-width="4"/>
+      <path d="M61 548 138 527 112 550 151 573 113 592 140 628 68 612Q60 608 61 598Z" fill="#394368"/>
+      <path d="M71 549 137 530 111 553 144 573 109 592 137 626 70 609" fill="none" stroke="#e8d6b4" stroke-width="5"/>
+      <path d="m102 551-8 14 8 5 12-11m-8 36-6 9 9 7 10-9" fill="#e8d6b4" stroke="none"/>
+      <path d="M607 495 656 507 657 575 612 586 622 566 594 554 625 532Z" fill="#354060"/>
+      <path d="M609 497 642 524 598 552 638 567 617 585" fill="none" stroke="#e8d6b4" stroke-width="5"/>
+      <path d="m641 515 12 8-9 9-12-4Zm-7 44 17 5 4 8-15 3Z" fill="#e8d6b4" stroke="none"/>
+    </g>
+
+    <g id="furina-dress-back">
+      <path d="M292 525 330 510 372 513 411 501 409 534 446 565 455 612 438 675 461 728H295L283 663 280 600Z" fill="#354463"/>
+      <path d="M315 569 329 645 317 691 342 728H396L414 684 404 621 390 564Z" fill="#f5f7f8"/>
+      <path d="M312 590 326 650 343 685 354 668 369 687 399 650 415 593" fill="none" stroke-width="6"/>
+      <path d="M299 586 329 682 337 728H298L288 662Z" fill="#6d8cba"/>
+      <path d="M424 582 408 666 393 728H421L443 654 450 609Z" fill="#6688b7"/>
+      <path d="M303 623 325 692 330 728M421 630 403 704 398 728" fill="none" stroke="#d3d9df" stroke-width="3"/>
+      <path d="m345 689 9 9 17-16m-23 19 6 13 13-16M349 715l5 12 14-17" fill="none" stroke="#3e4659"/>
+      <path d="m313 714 13-3 4 6-14 4Zm107-15 16-3 4 6-18 4Z" fill="#dac9ab" stroke-width="2.3"/>
+    </g>
+
+    <!-- 脸的倾角、大小眼和略偏右的三角笑口沿用参考图。 -->
+    <g id="furina-face">
+      <path d="M229 335C254 318 304 308 354 317 400 324 431 348 446 382 461 413 448 451 425 476 410 495 388 507 367 519L361 538 340 544 327 523C284 521 239 509 212 487 187 468 179 441 189 408 197 380 211 353 229 335Z" fill="#fff4f0"/>
+      <path d="M223 473Q269 505 327 511L348 529 366 517Q405 499 427 473C410 500 384 515 367 521L361 538 340 544 327 523C280 519 243 509 223 492Z" fill="#f5d8d8" stroke="none"/>
+      <ellipse cx="214" cy="449" rx="51" ry="31" fill="url(#furina-blush)" stroke="none"/>
+      <ellipse cx="407" cy="424" rx="49" ry="29" fill="url(#furina-blush)" stroke="none"/>
+      <path d="M216 369Q237 356 263 358L269 370Q239 366 218 379ZM334 339Q365 329 391 340L395 350Q362 343 340 352Z" fill="#ad9394" stroke="none"/>
+      <path d="M205 418C205 396 220 377 239 379 260 377 276 397 277 422 278 444 263 457 242 458 219 459 206 445 205 418Z" fill="#fffdfb" stroke="#5e5867" stroke-width="3"/>
+      <path d="M218 418C217 400 226 386 240 386 256 386 266 401 267 421 268 436 260 447 244 449 229 448 220 438 218 418Z" fill="url(#furina-iris)" stroke="#514d85" stroke-width="3"/>
+      <path d="M240 401C247 410 251 421 250 428 247 435 240 434 237 427 234 419 236 409 240 401Z" fill="#a9f3fc" stroke="#535d9c" stroke-width="2"/>
+      <path d="M243 441Q251 432 254 445L253 450 244 451Z" fill="#e0fbff" stroke="none"/>
+      <path d="M205 418C201 396 216 375 236 376 251 375 263 386 271 399 260 388 247 382 237 383 219 383 209 397 205 418Z" fill="#494559" stroke="none"/>
+      <path d="M207 432Q208 449 221 453M217 454l3 4m9-3 2 3m10-3 2 2" fill="none" stroke="#a88283" stroke-width="2.5"/>
+      <path d="M347 383C347 360 358 344 374 344 396 344 408 365 409 389 410 411 399 425 381 426 359 426 347 410 347 383Z" fill="#fffdfb" stroke="#5d5768" stroke-width="3"/>
+      <path d="M353 384C352 365 360 351 374 351 391 351 401 367 403 387 405 405 396 417 383 419 365 419 355 404 353 384Z" fill="url(#furina-iris)" stroke="#514d85" stroke-width="3"/>
+      <path d="M371 373C378 379 382 391 382 400 380 408 373 409 369 402 366 395 367 382 371 373Z" fill="#a8f3fa" stroke="#535d9c" stroke-width="2"/>
+      <path d="M348 376C347 354 358 340 372 341 389 340 401 355 407 372 396 354 381 347 372 350 358 351 351 363 348 376Z" fill="#494559" stroke="none"/>
+      <path d="M385 426l3 2m7-5 3 2m5-6 3 2" fill="none" stroke="#a88283" stroke-width="2.5"/>
+      <path d="M286 414l24-3m-31 14 27-6m95 26 17-7" fill="none" stroke="#d6afb0" stroke-width="4" opacity=".62"/>
+      <path d="M303 469Q318 458 335 453C340 462 340 479 337 493 323 489 313 478 303 469Z" fill="#efa0a2" stroke="#9b5960" stroke-width="3"/>
+      <path d="M307 469Q320 465 334 466L335 486Q320 480 307 469Z" fill="#f8b4ae" stroke="none"/>
+    </g>
+
+    <!-- 脸两侧的长卷发先画，再由最前层的大刘海覆盖。 -->
+    <g id="furina-side-hair">
+      <path d="M192 343C172 373 159 411 156 452 151 489 158 521 181 538 199 551 221 548 242 546 248 555 248 563 242 574 228 593 227 607 239 618 252 630 269 622 278 607 264 616 254 609 253 600 254 589 277 576 281 558 284 542 272 530 260 524 223 508 213 489 209 465 200 446 191 437 193 417 195 392 204 368 213 352Z" fill="#fffefe"/>
+      <path d="M187 417C176 440 180 471 193 490 206 511 222 520 251 530 262 534 265 542 263 551 263 561 256 568 247 578 254 558 244 548 234 541 203 530 186 516 180 493 173 469 176 443 187 417Z" fill="#a8d6e9" stroke="none"/>
+      <path d="M194 399C179 427 185 454 207 466 219 472 231 473 242 469 213 459 206 445 210 419Z" fill="#fcfdfd"/>
+      <path d="M403 341C434 350 452 375 464 404 483 441 493 484 475 515 468 529 464 546 472 564 459 580 441 587 420 577 405 567 403 550 409 532 416 511 420 491 418 470 416 446 409 424 414 398 413 376 408 356 403 341Z" fill="#fffefe"/>
+      <path d="M433 421C445 451 443 479 430 500 420 520 414 538 420 554 425 568 435 573 447 576 428 579 414 568 413 552 411 536 420 513 421 492 425 465 419 448 419 436Z" fill="#a7d4e9" stroke="none"/>
+      <path d="M433 348C473 358 504 389 522 423 543 460 539 493 516 514 518 526 529 529 544 525 530 538 510 535 503 523 496 511 501 499 506 487 515 464 503 433 484 412 464 388 448 372 433 348Z" fill="#fdfefe"/>
+      <path d="M492 415C515 438 525 468 515 493 508 509 511 523 523 529 510 528 504 519 509 505 519 480 511 446 492 415Z" fill="#b3dced" stroke="none"/>
+      <path d="M425 373C434 405 424 434 405 449 392 458 378 464 365 454 390 454 408 437 415 418 422 400 420 385 416 375Z" fill="#fdfefe"/>
+      <path d="M368 455Q392 463 410 442" fill="none" stroke="#76abc9" stroke-width="4"/>
+    </g>
+
+    <!-- 主刘海：冠顶、不对称飞扬发束和遮住右眼上缘的前发。 -->
+    <g id="furina-front-hair">
+      <path d="M201 212C226 187 257 177 287 173 326 145 364 155 403 168 455 184 503 215 535 260 554 286 562 317 583 337 599 350 613 352 629 345 620 365 598 370 580 361 549 349 529 327 509 306 510 322 525 341 538 357 517 345 495 337 468 334 447 334 430 343 409 353L349 349 298 327 272 294 251 257 232 232Z" fill="#fffefe"/>
+      <path d="M361 181C393 192 425 218 447 244 420 229 397 207 361 181ZM424 182C458 197 488 221 511 246 480 223 450 202 424 182ZM499 248C525 272 540 297 548 321 528 297 516 272 499 248Z" fill="#727486" stroke="none"/>
+      <path d="M291 215C311 199 324 190 340 197L353 219Q322 211 291 215Z" fill="#91c7e4" stroke-width="3"/>
+      <path d="M349 188C367 203 387 225 404 247M495 290q14 27 41 54" fill="none" stroke="#92929d" stroke-width="2.7"/>
+      <path d="M205 211C184 212 168 233 154 261 138 292 130 327 110 357 93 384 73 412 72 443 70 461 83 475 105 480 84 459 85 438 97 416 85 450 104 476 124 480 121 500 111 508 97 501 110 522 129 513 139 494 151 471 147 445 156 421 168 404 185 387 197 363 213 336 224 310 237 287 235 324 248 349 272 371 302 399 340 419 380 420 395 420 408 414 418 405 379 412 341 394 318 371 290 344 275 312 273 281 286 315 311 341 345 353 375 364 408 363 435 351 454 343 465 334 474 322 444 338 415 337 391 332 429 334 468 323 488 300 478 306 463 309 449 310 472 300 491 282 500 259 464 282 432 282 404 272 382 247 358 219 337 200 321 184 310 179 292 184L266 197 243 211 231 219Z" fill="#fffefe"/>
+      <path d="M196 246C202 230 210 219 221 215L248 220C226 224 211 233 196 246Z" fill="#97c8e4" stroke-width="3"/>
+      <path d="M153 353C143 381 125 397 117 399 139 407 156 397 172 374 184 357 192 339 199 319 177 352 162 372 143 388Z" fill="#a5d6e9" stroke="none"/>
+      <path d="M118 398C145 411 174 387 188 369 169 405 143 426 118 409L111 403Q116 404 126 403Z" fill="#fafdfd"/>
+      <path d="M248 268C242 301 243 321 254 341 247 317 249 295 254 279Z" fill="#9ed2e8" stroke="none"/>
+      <path d="M261 220C284 247 320 273 360 289 396 304 439 315 481 300 461 320 433 329 403 324 340 313 286 270 261 231Z" fill="#a7d8eb" stroke="none"/>
+      <path d="M276 293C288 328 313 347 349 354 384 365 416 362 441 349 402 355 368 347 337 333 309 320 289 305 276 293Z" fill="#a2cde3" stroke="none"/>
+      <path d="M321 309Q351 300 384 291 359 290 339 295Z" fill="#94929c" stroke="none" opacity=".72"/>
+      <path d="M352 324Q388 323 421 332 399 339 375 339L350 333Z" fill="#a39aa1" stroke="none" opacity=".52"/>
+      <path d="m335 320 7 9m-12-1 10-2m14-9 9 13" fill="none" stroke="#b6a9aa" stroke-width="4" opacity=".7"/>
+      <path d="M299 242Q349 270 404 272M293 184q13-8 33-8M246 188q14-6 28-4M274 182l7-8" fill="none" stroke="#737583" stroke-width="2.9"/>
+    </g>
+
+    <!-- 领结、褶边和水滴宝石覆盖胸前发尾，金边单独成层。 -->
+    <g id="furina-collar">
+      <path d="M306 525 337 516 343 542 353 558 366 548 377 518 400 508 402 540 416 564 392 579 361 573 326 583 302 566Z" fill="#304263"/>
+      <path d="m315 532 9 23 18-10M382 525l-7 24 18 15" fill="none" stroke="#617ca5" stroke-width="8"/>
+      <path d="m346 541 10 14 10-17 2 20-11 10-14-9Z" fill="#e0d1b0" stroke-width="2.5"/>
+      <path d="M339 560 319 567 293 605 299 627 316 626 312 646 332 642 343 650 356 641 369 649 384 640 395 643 403 625 412 625 405 602 381 568 366 562Z" fill="#6178b3"/>
+      <path d="M322 571 304 615 330 627 342 572ZM367 571 377 627 405 615 384 576Z" fill="#465e98"/>
+      <path d="M296 628 315 639 331 635 344 644 357 637 370 643 387 634 402 629 407 642 398 652 378 657 366 666 351 661 337 666 322 657 305 656 292 647Z" fill="#566fa8"/>
+      <path d="m311 640 4 12m17-11 4 18m20-19 1 17m20-19-3 16m18-18-4 13" fill="none" stroke="#34486c" stroke-width="3"/>
+      <path d="M352 566C345 577 337 590 335 607 332 619 341 629 353 630 367 630 374 622 374 609 375 592 365 578 362 566Z" fill="#e3d5ab" stroke-width="3.3"/>
+      <path d="M355 573C347 585 342 597 341 608 340 618 345 624 354 624 364 623 369 617 369 608 369 594 363 581 359 573Z" fill="url(#furina-gem)" stroke="#417d9d" stroke-width="2.2"/>
+      <path d="M345 610Q350 591 364 590M345 616Q353 604 368 602M350 621l13-11" fill="none" stroke="#b4ffff" stroke-width="3" opacity=".9"/>
+      <path d="M419 579 404 584 410 606 425 602 439 617 450 604 449 584 432 578Z" fill="#577fb4"/>
+      <path d="m416 597-3 12 13-6m6 0 9 7 5-9" fill="none" stroke="#d2d7df" stroke-width="2.4"/>
+      <path d="M421 579q14-4 18 8 4 12-7 17-13 5-20-7-5-12 9-18Z" fill="#d8d2b8" stroke-width="2.6"/>
+      <path d="M421 584q8-4 12 3 5 8-3 12-9 4-13-4-3-7 4-11Z" fill="#2e8ec6" stroke="#284b6f" stroke-width="2"/>
+      <path d="m420 588 4-2" fill="none" stroke="#b5eff9" stroke-width="3.5"/>
+      <path d="M300 573q-13 2-14 14-1 11 10 12 8 0 9-10l-5-16Zm-6 5 4 16" fill="#5a7ea7" stroke-width="2.6"/>
+    </g>
+  </g>
+</svg>
+</g>
 </svg>

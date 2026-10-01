@@ -19,8 +19,8 @@ def render_graph(days: list[dict], theme: str) -> str:
         可直接保存为 SVG 文件的文本。
     """
     palette = {
-        "light": ("#ffffff", "#1f2328", "#59636e", "#d1d9e0", "#078574"),
-        "dark": ("#0d1117", "#f0f6fc", "#9198a1", "#30363d", "#3dd6b0"),
+        "light": ("#f7fafc", "#24364a", "#667b8d", "#dbe8f2", "#3a8dcc"),
+        "dark": ("#16232d", "#deecf5", "#9db4c4", "#304652", "#82bedb"),
     }
     background, foreground, muted, border, accent = palette[theme]
     counts = [day["contributionCount"] for day in days]

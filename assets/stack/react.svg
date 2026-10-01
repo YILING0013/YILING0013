@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="76" height="28" role="img" aria-label="React"><rect x="0.5" y="0.5" width="75" height="27" rx="7" fill="#18342e" stroke="#2a5044"/><circle cx="13" cy="14" r="2.5" fill="#78cda9"/><text x="23" y="18" fill="#dcf3e6" font-family="Segoe UI, sans-serif" font-size="12">React</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="30" viewBox="0 0 88 30" role="img" aria-label="React">
+<rect x=".5" y=".5" width="87" height="29" rx="7" fill="#f6fafc" stroke="#deebf2"/>
+<g transform="translate(8 5)" fill="none" color="#ae9267" stroke="#ae9267" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="10" cy="10" rx="8" ry="3"/><ellipse cx="10" cy="10" rx="8" ry="3" transform="rotate(60 10 10)"/><ellipse cx="10" cy="10" rx="8" ry="3" transform="rotate(120 10 10)"/><circle cx="10" cy="10" r="1.2" fill="currentColor" stroke="none"/></g>
+<text x="35" y="19" fill="#405c71" font-family="Segoe UI,sans-serif" font-size="12">React</text>
+</svg>

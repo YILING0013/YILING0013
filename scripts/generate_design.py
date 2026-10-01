@@ -1,109 +1,115 @@
-"""生成主页的静态视觉素材；修改设计后在本地运行，无需第三方图片服务。"""
+"""生成清爽水蓝页头和技术标签；人物由独立的可编辑 SVG 提供。"""
 
 from pathlib import Path
+from xml.etree import ElementTree
 
 
-def render_header(compact: bool) -> str:
+def render_header(portrait: str, compact: bool) -> str:
     """
-    绘制带流线插画的个人页头，分别适配桌面和手机。
+    将用户参考图的矢量重绘排入简洁页头，手机使用上下布局。
 
     Args:
-        compact: 是否生成手机使用的紧凑布局。
+        portrait: 芙宁娜 SVG 根元素内部的矢量图层。
+        compact: 是否采用手机尺寸和位置。
 
     Returns:
-        完整 SVG 文本。
+        不含位图、外链或脚本的独立 SVG。
     """
-    colors = {
-        "light": ("#f6f9f8", "#172c29", "#536c65", "#d8e6df", "#16856f", "#e3f2e8"),
-        "dark": ("#101b20", "#ecf5ef", "#a0b6ac", "#293e3b", "#63d5b0", "#1c3b33"),
-    }
-    variables = ("background", "text", "muted", "border", "accent", "glow")
-    styles = []
-    for theme, palette in colors.items():
-        rule = ":root{" + ";".join(f"--{name}:{color}" for name, color in zip(variables, palette)) + "}"
-        styles.append(rule if theme == "light" else "@media(prefers-color-scheme:dark){" + rule + "}")
-    background, text, muted, border, accent, glow = [f"var(--{name})" for name in variables]
-    width, height = (480, 244) if compact else (960, 272)
-    x = 28 if compact else 42
-    name_y, name_size = (108, 46) if compact else (135, 66)
-    subtitle_y = 148 if compact else 177
-    art_transform = "translate(196 -70) scale(0.54)" if compact else "translate(583 0)"
-    svg = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
-        '<title id="title">YILING0013 — Developer and open-source builder</title>',
-        '<desc id="desc">Practical tools. Creative possibilities. AI, web, and desktop.</desc>',
-        '<style>' + "".join(styles) + '</style>',
-        '<defs><radialGradient id="glow"><stop stop-color="' + glow + '"/><stop offset="1" stop-color="' + background + '"/></radialGradient>',
-        f'<clipPath id="clip"><rect width="{width}" height="{height}" rx="18"/></clipPath></defs>',
-        f'<g clip-path="url(#clip)"><rect width="{width}" height="{height}" fill="{background}"/>',
-        f'<g transform="{art_transform}" fill="none">',
-        '<circle cx="211" cy="132" r="188" fill="url(#glow)"/>',
-    ]
-    # 以有序的点阵和流线表现创作工具的精确感，避免抢过标题。
-    for row in range(7):
-        for column in range(10):
-            svg.append(f'<circle cx="{64 + column * 28}" cy="{43 + row * 29}" r="1" fill="{accent}" opacity="0.18"/>')
-    for index in range(8):
-        offset = index * 13
-        svg.append(
-            f'<path d="M 20,{204 + offset} C 103,{212 + offset} 117,{93 + offset} 191,{96 + offset} '
-            f'S 292,{182 + offset} 364,{48 + offset}" stroke="{accent}" '
-            f'stroke-width="{1.6 if index == 3 else 1}" opacity="{0.78 if index == 3 else 0.17 + index * 0.035:.3f}"/>'
-        )
-    svg.extend([
-        f'<circle cx="191" cy="135" r="4" fill="{background}" stroke="{accent}" stroke-width="1.5"/>',
-        '</g>',
-        '<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">',
-        f'<text x="{x}" y="47" fill="{accent}" font-size="11" font-weight="600" letter-spacing="2.3">DEVELOPER / OPEN SOURCE</text>',
-        f'<text x="{x - 2}" y="{name_y}" fill="{text}" font-size="{name_size}" font-weight="600" letter-spacing="-2.5">YILING0013</text>',
-        f'<text x="{x}" y="{subtitle_y}" fill="{muted}" font-size="{17 if compact else 19}">Practical tools. Creative possibilities.</text>',
-        f'<path d="M {x},{height - 51} h 27" stroke="{accent}" stroke-width="2"/>',
-        f'<text x="{x + 39}" y="{height - 47}" fill="{muted}" font-size="11" letter-spacing="1.6">AI / WEB / DESKTOP</text>',
-        '</g></g>',
-        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="17.5" fill="none" stroke="{border}"/>',
-        '</svg>',
-    ])
-    return "\n".join(svg) + "\n"
+    width, height = (480, 422) if compact else (1000, 342)
+    x, title_y, title_size = (28, 61, 41) if compact else (48, 118, 66)
+    portrait_position = "x=\"127\" y=\"105\" width=\"277\" height=\"312\"" if compact else "x=\"601\" y=\"-2\" width=\"361\" height=\"355\""
+    circle_x, circle_y, circle_r = (264, 280, 120) if compact else (788, 184, 142)
+    details = "" if compact else '<text x="49" y="213" font-size="16" fill="#718598">Python · TypeScript · C# / C++</text>'
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title description">
+<title id="title">YILING0013</title>
+<desc id="description">AI 创作与桌面工具。右侧为根据用户提供图片逐层重绘的芙宁娜 SVG。</desc>
+<defs><clipPath id="header-frame"><rect width="{width}" height="{height}" rx="16"/></clipPath></defs>
+<g clip-path="url(#header-frame)">
+<rect width="{width}" height="{height}" fill="#f3f9fd"/>
+<circle cx="{circle_x}" cy="{circle_y}" r="{circle_r}" fill="#e2f2fa"/>
+<circle cx="{width - 29}" cy="{height - 42}" r="5" fill="none" stroke="#bcdeee" stroke-width="1.5"/>
+<circle cx="{width - 64}" cy="38" r="9" fill="none" stroke="#c5e3ee" stroke-width="1.5"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif">
+<text x="{x - 2}" y="{title_y}" font-size="{title_size}" fill="#24394c" font-weight="650" letter-spacing="-2">YILING0013</text>
+<text x="{x}" y="{title_y + (37 if compact else 49)}" font-size="{18 if compact else 23}" fill="#50718c">做一些实用，也有趣的小工具。</text>
+{details}
+</g>
+<svg {portrait_position} viewBox="0 0 658 728">{portrait}</svg>
+</g>
+</svg>\n'''
 
 
 if __name__ == "__main__":
     assets = Path(__file__).resolve().parents[1] / "assets"
-    # GitHub 会改写带主题条件的 picture source；宽度条件单独保留，主题放进 SVG。
+    portrait_source = (assets / "furina.svg").read_text(encoding="utf-8")
+    # 内嵌真实矢量路径，让 GitHub 中的页头不依赖 SVG 外链引用。
+    portrait = portrait_source[portrait_source.index(">") + 1:portrait_source.rindex("</svg>")]
     for compact in (False, True):
-        suffix = "-mobile" if compact else ""
-        (assets / f"header{suffix}.svg").write_text(
-            render_header(compact), encoding="utf-8", newline="\n"
-        )
+        svg = render_header(portrait, compact)
+        ElementTree.fromstring(svg)
+        (assets / ("header-mobile.svg" if compact else "header.svg")).write_text(svg, encoding="utf-8", newline="\n")
 
-    icons = {
-        "book": '<path d="M12 9h8a4 4 0 0 1 4 4v23a7 7 0 0 0-6-3h-6V9Z M36 9h-8a4 4 0 0 0-4 4v23a7 7 0 0 1 6-3h6V9Z"/>',
-        "folder": '<path d="M8 16v-5h13l4 5h15v21H8V16Z"/><path d="M8 18h32 M26 25l2 3 4 .5-3 2.5 1 4-4-2-3 2 .5-4-2.5-2.5 4-.5Z"/>',
-        "keyboard": '<rect x="7" y="12" width="34" height="24" rx="4"/><path d="M13 19h2m6 0h2m6 0h2m5 0h1M13 25h2m6 0h2m6 0h2m5 0h1M17 31h15"/>',
-        "image": '<rect x="9" y="9" width="30" height="30" rx="4"/><circle cx="29" cy="18" r="3"/><path d="m10 33 10-11 8 9 4-4 7 8"/>',
-    }
-    icon_dir = assets / "icons"
-    icon_dir.mkdir(exist_ok=True)
-    for name, drawing in icons.items():
-        svg = (
-            '<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48">'
-            '<rect width="48" height="48" rx="12" fill="#dcf1e7"/>'
-            '<g fill="none" stroke="#216c56" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">'
-            + drawing + '</g></svg>\n'
-        )
-        (icon_dir / f"{name}.svg").write_text(svg, encoding="utf-8", newline="\n")
-
-    stack_dir = assets / "stack"
-    stack_dir.mkdir(exist_ok=True)
-    for name, label, width in [
-        ("python", "Python", 83), ("typescript", "TypeScript", 108),
-        ("csharp-cpp", "C# / C++", 100), ("react", "React", 76),
-        ("nextjs", "Next.js", 88), ("flask", "Flask", 74),
-    ]:
-        svg = (
-            f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="28" role="img" aria-label="{label}">'
-            f'<rect x="0.5" y="0.5" width="{width - 1}" height="27" rx="7" fill="#18342e" stroke="#2a5044"/>'
-            '<circle cx="13" cy="14" r="2.5" fill="#78cda9"/>'
-            f'<text x="23" y="18" fill="#dcf3e6" font-family="Segoe UI, sans-serif" font-size="12">{label}</text></svg>\n'
-        )
-        (stack_dir / f"{name}.svg").write_text(svg, encoding="utf-8", newline="\n")
-    print("Generated two adaptive headers, four project icons, and six technology badges.")
+    badges = [('python',
+      'Python',
+      96,
+      '#f0a6cb',
+      '<path d="M5 9V6q0-3 4-3h4q3 0 3 3v5H7q-4 0-4 4v1M17 11v3q0 3-4 3H9q-3 0-3-3v-3"/><circle cx="9" cy="6" '
+      'r=".5" fill="currentColor"/><circle cx="13" cy="14" r=".5" fill="currentColor"/>'),
+     ('typescript',
+      'TypeScript',
+      121,
+      '#aaa0ff',
+      '<rect x="3" y="3" width="14" height="14" rx="3"/><path d="M6 8h6m-3 0v6m5-5q-3-1-2 2l2 1q2 3-2 2"/>'),
+     ('csharp-cpp',
+      'C# / C++',
+      114,
+      '#f0a6cb',
+      '<path d="m11 3 6 4v7l-6 4-7-4V7Z M10 8q-4-2-4 3t4 3m3-6v6m3-6v6m-4-4h5m-5 3h5"/>'),
+     ('react',
+      'React',
+      88,
+      '#7dd8d4',
+      '<ellipse cx="10" cy="10" rx="8" ry="3"/><ellipse cx="10" cy="10" rx="8" ry="3" transform="rotate(60 10 '
+      '10)"/><ellipse cx="10" cy="10" rx="8" ry="3" transform="rotate(120 10 10)"/><circle cx="10" cy="10" '
+      'r="1.2" fill="currentColor" stroke="none"/>'),
+     ('nextjs', 'Next.js', 101, '#aaa0ff', '<circle cx="10" cy="10" r="8"/><path d="M7 14V6l9 11M13 6v6"/>'),
+     ('flask',
+      'Flask',
+      85,
+      '#7dd8d4',
+      '<path d="M7 3h6m-5 0v6l-5 7q-1 2 2 2h10q3 0 2-2l-5-7V3M6 13h8"/><circle cx="9" cy="15.5" r=".4" '
+      'fill="currentColor"/>'),
+     ('javascript',
+      'JavaScript',
+      125,
+      '#efc58d',
+      '<rect x="3" y="3" width="14" height="14" rx="3"/><path d="M10 7v6q0 3-3 1m8-6q-4-2-4 1 0 1 2 2t2 2q0 3-4 '
+      '1"/>'),
+     ('git',
+      'Git',
+      73,
+      '#f0a6b0',
+      '<path d="m3 9 6-6q1-1 2 0l6 6q1 1 0 2l-6 6q-1 1-2 0l-6-6q-1-1 0-2Z"/><path d="m7 5 7 7M9 7v8"/><circle '
+      'cx="9" cy="7" r="1.3" fill="#161a2f"/><circle cx="9" cy="14" r="1.3" fill="#161a2f"/><circle cx="14" '
+      'cy="12" r="1.3" fill="#161a2f"/>'),
+     ('blender',
+      'Blender',
+      106,
+      '#eeb282',
+      '<ellipse cx="12" cy="12" rx="6" ry="5"/><circle cx="12" cy="12" r="2.3"/><path d="m4 3 8 4H3l5 4-6 4m3-8 '
+      '3 4"/>'),
+     ('unreal',
+      'Unreal Engine',
+      141,
+      '#9fc6df',
+      '<circle cx="10" cy="10" r="8"/><path d="m5 7 3-2v8q0 2 2 2l2-1V6l3-1m-3 1h2v8l-2 1M6 7h2"/>')]
+    for index, (name, label, width, old_accent, drawing) in enumerate(badges):
+        accent = ("#3c88b9", "#589a9b", "#747ea7", "#ae9267")[index % 4]
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" viewBox="0 0 {width} 30" role="img" aria-label="{label}">
+<rect x=".5" y=".5" width="{width - 1}" height="29" rx="7" fill="#f6fafc" stroke="#deebf2"/>
+<g transform="translate(8 5)" fill="none" color="{accent}" stroke="{accent}" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">{drawing}</g>
+<text x="35" y="19" fill="#405c71" font-family="Segoe UI,sans-serif" font-size="12">{label}</text>
+</svg>\n'''
+        ElementTree.fromstring(svg)
+        (assets / "stack" / f"{name}.svg").write_text(svg, encoding="utf-8", newline="\n")
+    print("Generated two Furina headers and", len(badges), "light technology badges.")

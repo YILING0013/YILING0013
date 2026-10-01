@@ -1,18 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="342" viewBox="0 0 1000 342" role="img" aria-labelledby="title description">
-<title id="title">YILING0013</title>
-<desc id="description">AI 创作与桌面工具。右侧为根据用户提供图片逐层重绘的芙宁娜 SVG。</desc>
-<defs><clipPath id="header-frame"><rect width="1000" height="342" rx="16"/></clipPath></defs>
-<g clip-path="url(#header-frame)">
-<rect width="1000" height="342" fill="#f3f9fd"/>
-<circle cx="788" cy="184" r="142" fill="#e2f2fa"/>
-<circle cx="971" cy="300" r="5" fill="none" stroke="#bcdeee" stroke-width="1.5"/>
-<circle cx="936" cy="38" r="9" fill="none" stroke="#c5e3ee" stroke-width="1.5"/>
-<g font-family="Segoe UI,Microsoft YaHei,sans-serif">
-<text x="46" y="118" font-size="66" fill="#24394c" font-weight="650" letter-spacing="-2">YILING0013</text>
-<text x="48" y="167" font-size="23" fill="#50718c">做一些实用，也有趣的小工具。</text>
-<text x="49" y="213" font-size="16" fill="#718598">Python · TypeScript · C# / C++</text>
-</g>
-<svg x="601" y="-2" width="361" height="355" viewBox="0 0 658 728">
+"""按参考图坐标手绘芙宁娜半身像；各语义图层均为可编辑的纯 SVG 路径。"""
+
+from pathlib import Path
+from xml.etree import ElementTree
+
+
+if __name__ == "__main__":
+    # 保留原图坐标与遮挡顺序，便于逐条调整刘海、五官和衣服轮廓。
+    svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="658" height="728" viewBox="0 0 658 728" role="img" aria-labelledby="furina-title furina-desc">
   <title id="furina-title">芙宁娜 · 张开双臂</title>
   <desc id="furina-desc">按提供的参考图手绘的透明背景矢量人物：银白长发、大呆毛、蓝紫水滴眼睛、微笑，身穿金边深蓝礼服，张开双臂。</desc>
   <defs>
@@ -144,5 +138,8 @@
     </g>
   </g>
 </svg>
-</g>
-</svg>
+'''
+    output = Path(__file__).resolve().parents[1] / "assets" / "furina.svg"
+    ElementTree.fromstring(svg)
+    output.write_text(svg, encoding="utf-8", newline="\n")
+    print(f"Wrote {output} ({output.stat().st_size:,} bytes); XML validated.")

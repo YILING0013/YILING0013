@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="48" viewBox="0 0 140 48" role="img" aria-labelledby="title description">
+<title id="title">Shortcut_Hint repository stats</title>
+<desc id="description">27 stars and 0 forks, retrieved 2026-10-01 UTC.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#667b8d}.strong{fill:#24364a}.mono{font-family:Consolas,monospace}</style>
+<rect x=".5" y=".5" width="139" height="47" rx="16" fill="#f7fafc" stroke="#dbe8f2"/>
+<path d="M 12,25 H 128" stroke="#dbe8f2"/>
+<text x="14" y="19" font-size="13" fill="#906c2c">★ Stars</text>
+<text x="126" y="19" text-anchor="end" font-size="13" font-weight="600" fill="#906c2c">27</text>
+<text x="14" y="40" font-size="13" fill="#327f86">⑂ Forks</text>
+<text x="126" y="40" text-anchor="end" font-size="13" font-weight="600" fill="#327f86">0</text>
+</svg>
