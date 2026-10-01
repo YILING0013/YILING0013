@@ -8,7 +8,7 @@
   &nbsp; / &nbsp;
   <a href="https://github.com/YILING0013?tab=repositories">Repositories</a>
   &nbsp; / &nbsp;
-  <a href="https://afdian.com/a/larissafro">爱发电</a>
+  <a href="https://ifdian.net/a/yiling0013">爱发电</a>
 </p>
 
 ### 项目
