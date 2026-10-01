@@ -1,18 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="422" viewBox="0 0 480 422" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="516" viewBox="0 0 480 516" role="img" aria-labelledby="title description">
 <title id="title">YILING0013</title>
-<desc id="description">AI 创作与桌面工具。右侧为根据用户提供图片逐层重绘的芙宁娜 SVG。</desc>
-<defs><clipPath id="header-frame"><rect width="480" height="422" rx="16"/></clipPath></defs>
+<desc id="description">做一些实用，也有趣的小工具。芙宁娜双手张开，发梢、手套和水泡越过浅蓝底板，水环与气泡缓缓浮动。</desc>
+<defs>
+  <clipPath id="header-frame"><rect x="14" y="34" width="428" height="420" rx="22"/></clipPath>
+  <radialGradient id="water-bubble" cx=".3" cy=".25" r=".8"><stop stop-color="#fff" stop-opacity=".9"/><stop offset=".75" stop-color="#d5eff8" stop-opacity=".28"/><stop offset="1" stop-color="#c8e7f2" stop-opacity=".68"/></radialGradient>
+  <linearGradient id="portrait-fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+  <mask id="portrait-edge"><rect x="108" y="136" width="361" height="367" fill="url(#portrait-fade)"/></mask>
+</defs>
+<style>
+@keyframes drift {0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes hover {0%,100%{transform:translateY(0)}50%{transform:translateY(-2.5px)}}
+@keyframes hair {0%,100%{transform:rotate(-1deg)}50%{transform:rotate(1deg)}}
+@keyframes glint {0%,75%,100%{opacity:.42}85%{opacity:1}}
+.bubble{animation:drift 7s ease-in-out infinite}
+.portrait-float{animation:hover 8s ease-in-out infinite}
+#furina-ahoge{transform-origin:220px 202px;animation:hair 7s ease-in-out infinite}
+.water-glint{animation:glint 8s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.bubble,.portrait-float,#furina-ahoge,.water-glint{animation:none}}
+</style>
+<rect x="15" y="40" width="428" height="420" rx="22" fill="#94c5d9" opacity=".09"/>
 <g clip-path="url(#header-frame)">
-<rect width="480" height="422" fill="#f3f9fd"/>
-<circle cx="264" cy="280" r="120" fill="#e2f2fa"/>
-<circle cx="451" cy="380" r="5" fill="none" stroke="#bcdeee" stroke-width="1.5"/>
-<circle cx="416" cy="38" r="9" fill="none" stroke="#c5e3ee" stroke-width="1.5"/>
+<rect x="14" y="34" width="428" height="420" fill="#f3f9fd"/>
+<circle cx="284" cy="317" r="134" fill="#e2f2fa"/>
+<circle cx="284" cy="317" r="146" fill="none" stroke="#dceef5" stroke-width="1"/>
+</g>
 <g font-family="Segoe UI,Microsoft YaHei,sans-serif">
-<text x="26" y="61" font-size="41" fill="#24394c" font-weight="650" letter-spacing="-2">YILING0013</text>
-<text x="28" y="98" font-size="18" fill="#50718c">做一些实用，也有趣的小工具。</text>
+<text x="32" y="90" font-size="41" fill="#24394c" font-weight="650" letter-spacing="-2">YILING0013</text>
+<text x="34" y="127" font-size="18" fill="#50718c">做一些实用，也有趣的小工具。</text>
 
 </g>
-<svg x="127" y="105" width="277" height="312" viewBox="0 0 658 728">
+<path d="M93 435C94 405 225 388 340 405S460 449 432 464" fill="none" stroke="#a5d6e4" stroke-width="2" opacity=".65"/>
+<g class="portrait-float" mask="url(#portrait-edge)"><svg x="108" y="136" width="361" height="367" viewBox="-12 -8 736 748" overflow="visible">
   <title id="furina-title">芙宁娜 · 张开双臂</title>
   <desc id="furina-desc">按提供的参考图手绘的透明背景矢量人物：银白长发、大呆毛、蓝紫水滴眼睛、微笑，身穿金边深蓝礼服，张开双臂。</desc>
   <defs>
@@ -45,8 +63,18 @@
     <g id="furina-arms">
       <path d="M278 541C240 548 198 548 145 550L103 543 74 562 78 600C124 611 173 613 216 605L267 581Z" fill="url(#furina-sleeve)"/>
       <path d="M412 529C454 529 506 529 554 525L607 508 639 532 645 575C596 585 543 587 499 584L433 577Z" fill="url(#furina-sleeve)"/>
-      <path d="M43 547C34 545 31 536 28 526L20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 49 580Z" fill="#424365"/>
-      <path d="M13 537l14 21M22 531l10 20M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+      <g id="furina-left-hand">
+        <path d="M43 547C34 545 31 536 28 526L20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 49 580Z" fill="#424365"/>
+        <path d="M13 537l14 21M22 531l10 20M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+      </g>
+      <!-- 右手以左手镜像为底稿，补齐小指并延长腕部；定位放在内层，外层可独立微动。 -->
+      <g id="furina-right-hand">
+        <path d="M652 532Q660 529 663 536L665 571Q663 582 655 581L649 577Z" fill="#4b4b8a"/>
+        <g transform="translate(706 -7) scale(-1 1)">
+          <path d="M43 547C39 543 36 532 34 524L30 516Q27 510 24 515L28 532 20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 56 580 57 548Z" fill="#424365"/>
+          <path d="M13 537l14 21M22 531l10 20M30 535l7 16M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+        </g>
+      </g>
       <path d="M47 541Q54 537 59 547L61 605Q59 618 51 617 41 616 43 605L43 591Q33 593 32 585L37 567Q31 555 39 552Z" fill="#4b4b8a"/>
       <path d="M38 555l-7 18 5 15 9 3" fill="none" stroke="#ded5b5" stroke-width="4"/>
       <path d="M61 548 138 527 112 550 151 573 113 592 140 628 68 612Q60 608 61 598Z" fill="#394368"/>
@@ -143,6 +171,12 @@
       <path d="M300 573q-13 2-14 14-1 11 10 12 8 0 9-10l-5-16Zm-6 5 4 16" fill="#5a7ea7" stroke-width="2.6"/>
     </g>
   </g>
-</svg>
-</g>
+</svg></g>
+<path d="M430 464C375 489 206 482 133 463C108 457 93 447 93 435" fill="none" stroke="#e0f2f7" stroke-width="11" opacity=".8"/>
+<path d="M430 464C375 489 206 482 133 463C108 457 93 447 93 435" fill="none" stroke="#83c4d8" stroke-width="1.7" opacity=".8"/>
+<g transform="translate(24 278)"><g class="bubble" style="animation-delay:-0s"><circle r="15" fill="url(#water-bubble)" stroke="#a7d7e8" stroke-width="1.3"/><path d="M-8.2 0A9.0 9.0 0 0 1 0 -9.0" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g></g>
+<g transform="translate(433 109)"><g class="bubble" style="animation-delay:-1.8s"><circle r="10" fill="url(#water-bubble)" stroke="#a7d7e8" stroke-width="1.3"/><path d="M-5.5 0A6.0 6.0 0 0 1 0 -6.0" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g></g>
+<g transform="translate(451 349)"><g class="bubble" style="animation-delay:-3.1s"><circle r="18" fill="url(#water-bubble)" stroke="#a7d7e8" stroke-width="1.3"/><path d="M-9.9 0A10.8 10.8 0 0 1 0 -10.8" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g></g>
+<g transform="translate(133 463)"><g class="bubble" style="animation-delay:-1s"><circle r="12" fill="url(#water-bubble)" stroke="#a7d7e8" stroke-width="1.3"/><path d="M-6.6 0A7.2 7.2 0 0 1 0 -7.2" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g></g>
+<g class="water-glint" transform="translate(393 475)" fill="#87bccc"><path d="M0-6Q0 0 6 0Q0 0 0 6Q0 0-6 0Q0 0 0-6Z"/></g>
 </svg>

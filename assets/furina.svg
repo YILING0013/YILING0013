@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="658" height="728" viewBox="0 0 658 728" role="img" aria-labelledby="furina-title furina-desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="736" height="748" viewBox="-12 -8 736 748" role="img" aria-labelledby="furina-title furina-desc">
   <title id="furina-title">芙宁娜 · 张开双臂</title>
   <desc id="furina-desc">按提供的参考图手绘的透明背景矢量人物：银白长发、大呆毛、蓝紫水滴眼睛、微笑，身穿金边深蓝礼服，张开双臂。</desc>
   <defs>
@@ -31,8 +31,18 @@
     <g id="furina-arms">
       <path d="M278 541C240 548 198 548 145 550L103 543 74 562 78 600C124 611 173 613 216 605L267 581Z" fill="url(#furina-sleeve)"/>
       <path d="M412 529C454 529 506 529 554 525L607 508 639 532 645 575C596 585 543 587 499 584L433 577Z" fill="url(#furina-sleeve)"/>
-      <path d="M43 547C34 545 31 536 28 526L20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 49 580Z" fill="#424365"/>
-      <path d="M13 537l14 21M22 531l10 20M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+      <g id="furina-left-hand">
+        <path d="M43 547C34 545 31 536 28 526L20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 49 580Z" fill="#424365"/>
+        <path d="M13 537l14 21M22 531l10 20M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+      </g>
+      <!-- 右手以左手镜像为底稿，补齐小指并延长腕部；定位放在内层，外层可独立微动。 -->
+      <g id="furina-right-hand">
+        <path d="M652 532Q660 529 663 536L665 571Q663 582 655 581L649 577Z" fill="#4b4b8a"/>
+        <g transform="translate(706 -7) scale(-1 1)">
+          <path d="M43 547C39 543 36 532 34 524L30 516Q27 510 24 515L28 532 20 510Q16 502 14 510L19 532 12 508Q9 501 6 505L11 533 5 515Q2 509 2 515L5 539 16 558 24 568 12 565 3 560Q0 560 3 567L20 584 36 590 56 580 57 548Z" fill="#424365"/>
+          <path d="M13 537l14 21M22 531l10 20M30 535l7 16M10 568l13 11M32 561q-7 14 6 21" fill="none" stroke="#77748f" stroke-width="2.4"/>
+        </g>
+      </g>
       <path d="M47 541Q54 537 59 547L61 605Q59 618 51 617 41 616 43 605L43 591Q33 593 32 585L37 567Q31 555 39 552Z" fill="#4b4b8a"/>
       <path d="M38 555l-7 18 5 15 9 3" fill="none" stroke="#ded5b5" stroke-width="4"/>
       <path d="M61 548 138 527 112 550 151 573 113 592 140 628 68 612Q60 608 61 598Z" fill="#394368"/>
