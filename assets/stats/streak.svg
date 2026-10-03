@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="132" viewBox="0 0 840 132" role="img" aria-labelledby="title description">
 <title id="title">Contribution rhythm over the last 365 complete days</title>
-<desc id="description">57 contributions, 24 active days, longest consecutive streak of 2 days within 2025-10-02 to 2026-10-01 UTC. GitHub contribution-calendar totals. May include anonymous private contribution counts according to profile visibility and API permissions. No private repository metadata is requested or saved.</desc>
+<desc id="description">57 contributions, 24 active days, longest consecutive streak of 2 days within 2025-10-03 to 2026-10-02 UTC. GitHub contribution-calendar totals. May include anonymous private contribution counts according to profile visibility and API permissions. No private repository metadata is requested or saved.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#667b8d}.strong{fill:#24364a}.mono{font-family:Consolas,monospace}</style>
 <rect x=".5" y=".5" width="839" height="131" rx="16" fill="#f7fafc" stroke="#dbe8f2"/>
-<text x="25" y="25" font-size="14" class="label">Last 365 complete days · 2025-10-02 — 2026-10-01 UTC</text>
+<text x="25" y="25" font-size="14" class="label">Last 365 complete days · 2025-10-03 — 2026-10-02 UTC</text>
 <path d="M 282,45 V 113 M 560,45 V 113" stroke="#dbe8f2"/>
 <text x="140" y="78" text-anchor="middle" font-size="38" font-weight="700" fill="#317eb6">57</text>
 <text x="140" y="108" text-anchor="middle" font-size="21" class="strong">Contributions</text>
