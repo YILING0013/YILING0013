@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-05T07:10:31.184838+00:00",
+  "generated_at": "2026-10-06T07:38:14.123911+00:00",
   "period": {
-    "start": "2025-10-05",
-    "end": "2026-10-04",
+    "start": "2025-10-06",
+    "end": "2026-10-05",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,27 +18,27 @@
     ]
   },
   "totals": {
-    "stars": 6698,
+    "stars": 6704,
     "forks": 1088,
     "followers": 220,
     "public_owned_repositories": 15,
     "public_nonfork_repositories": 14,
-    "contributions": 57,
-    "active_days": 24,
+    "contributions": 58,
+    "active_days": 25,
     "longest_streak": 2,
-    "commits": 51,
+    "commits": 52,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 9100925
+    "language_bytes": 9101291
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6162,
+      "stars": 6167,
       "forks": 1059,
       "languages": {
         "Python": 389985
@@ -47,7 +47,7 @@
     {
       "name": "ChangeFolderIcon",
       "url": "https://github.com/YILING0013/ChangeFolderIcon",
-      "stars": 302,
+      "stars": 303,
       "forks": 8,
       "languages": {
         "C#": 98724,
@@ -144,7 +144,7 @@
       "stars": 2,
       "forks": 1,
       "languages": {
-        "JavaScript": 39764,
+        "JavaScript": 40130,
         "CSS": 488
       }
     },
@@ -198,100 +198,92 @@
     {
       "name": "C",
       "bytes": 3123467,
-      "percent": 34.32032458239135
+      "percent": 34.31894442228031
     },
     {
       "name": "JavaScript",
-      "bytes": 2006359,
-      "percent": 22.045660193881393
+      "bytes": 2006725,
+      "percent": 22.0487950555586
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 14.38736172422034
+      "percent": 14.386783149775125
     },
     {
       "name": "Python",
       "bytes": 1286153,
-      "percent": 14.132112944563326
+      "percent": 14.131544634711712
     },
     {
       "name": "TypeScript",
       "bytes": 407975,
-      "percent": 4.482786090424875
+      "percent": 4.482605819328269
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 4.2523150119356
+      "percent": 4.252144009020259
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 2.568969637701662
+      "percent": 2.56886632896366
     },
     {
       "name": "CSS",
       "bytes": 141258,
-      "percent": 1.552127943038757
+      "percent": 1.5520655256490534
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.8734167131363021
+      "percent": 0.8733815894909853
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.8623409158959117
+      "percent": 0.8623062376535373
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.20701192461205867
+      "percent": 0.20700359981897076
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.1322942448157742
+      "percent": 0.13228892472507472
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.09032048940080267
+      "percent": 0.09031685724585667
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.0547856399212168
+      "percent": 0.05478343676737729
     },
     {
       "name": "Batchfile",
       "bytes": 2218,
-      "percent": 0.024371149086493953
+      "percent": 0.02437016902327373
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.013800794974137245
+      "percent": 0.013800239987931381
     }
   ],
   "days": [
-    {
-      "date": "2025-10-05",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 0,
-      "week": 0,
-      "week_start": "2025-10-05"
-    },
     {
       "date": "2025-10-06",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 1,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-07",
@@ -299,7 +291,7 @@
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-08",
@@ -307,7 +299,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-09",
@@ -315,7 +307,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-10",
@@ -323,7 +315,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-11",
@@ -331,7 +323,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-05"
+      "week_start": "2025-10-06"
     },
     {
       "date": "2025-10-12",
@@ -3194,6 +3186,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 0,
+      "week": 52,
+      "week_start": "2026-10-04"
+    },
+    {
+      "date": "2026-10-05",
+      "contributionCount": 1,
+      "color": "#9be9a8",
+      "weekday": 1,
       "week": 52,
       "week_start": "2026-10-04"
     }
