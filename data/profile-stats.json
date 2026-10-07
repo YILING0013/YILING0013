@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-06T07:38:14.123911+00:00",
+  "generated_at": "2026-10-07T07:18:42.661405+00:00",
   "period": {
-    "start": "2025-10-06",
-    "end": "2026-10-05",
+    "start": "2025-10-07",
+    "end": "2026-10-06",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,8 +18,8 @@
     ]
   },
   "totals": {
-    "stars": 6704,
-    "forks": 1088,
+    "stars": 6706,
+    "forks": 1087,
     "followers": 220,
     "public_owned_repositories": 15,
     "public_nonfork_repositories": 14,
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6167,
-      "forks": 1059,
+      "stars": 6168,
+      "forks": 1058,
       "languages": {
         "Python": 389985
       }
@@ -47,7 +47,7 @@
     {
       "name": "ChangeFolderIcon",
       "url": "https://github.com/YILING0013/ChangeFolderIcon",
-      "stars": 303,
+      "stars": 305,
       "forks": 8,
       "languages": {
         "C#": 98724,
@@ -57,7 +57,7 @@
     {
       "name": "xianyun_NaiGenIMG",
       "url": "https://github.com/YILING0013/xianyun_NaiGenIMG",
-      "stars": 119,
+      "stars": 118,
       "forks": 7,
       "languages": {
         "Tcl": 1309383,
@@ -95,20 +95,9 @@
       }
     },
     {
-      "name": "XianyunApp",
-      "url": "https://github.com/YILING0013/XianyunApp",
-      "stars": 19,
-      "forks": 3,
-      "languages": {
-        "C#": 267610,
-        "Inno Setup": 1436,
-        "Python": 1072
-      }
-    },
-    {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 19,
+      "stars": 20,
       "forks": 4,
       "languages": {
         "JavaScript": 1453842,
@@ -116,6 +105,17 @@
         "PowerShell": 6772,
         "Batchfile": 2218,
         "CSS": 964
+      }
+    },
+    {
+      "name": "XianyunApp",
+      "url": "https://github.com/YILING0013/XianyunApp",
+      "stars": 18,
+      "forks": 3,
+      "languages": {
+        "C#": 267610,
+        "Inno Setup": 1436,
+        "Python": 1072
       }
     },
     {
@@ -278,20 +278,12 @@
   ],
   "days": [
     {
-      "date": "2025-10-06",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 1,
-      "week": 0,
-      "week_start": "2025-10-06"
-    },
-    {
       "date": "2025-10-07",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-10-06"
+      "week_start": "2025-10-07"
     },
     {
       "date": "2025-10-08",
@@ -299,7 +291,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-10-06"
+      "week_start": "2025-10-07"
     },
     {
       "date": "2025-10-09",
@@ -307,7 +299,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-06"
+      "week_start": "2025-10-07"
     },
     {
       "date": "2025-10-10",
@@ -315,7 +307,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-06"
+      "week_start": "2025-10-07"
     },
     {
       "date": "2025-10-11",
@@ -323,7 +315,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-06"
+      "week_start": "2025-10-07"
     },
     {
       "date": "2025-10-12",
@@ -3194,6 +3186,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 1,
+      "week": 52,
+      "week_start": "2026-10-04"
+    },
+    {
+      "date": "2026-10-06",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 2,
       "week": 52,
       "week_start": "2026-10-04"
     }
