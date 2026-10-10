@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="248" viewBox="0 0 440 248" role="img" aria-labelledby="title description">
 <title id="title">Languages</title>
-<desc id="description">GitHub Linguist code bytes across public owned non-fork repositories; not skill proficiency or time spent coding. C: 3,123,467 bytes; JavaScript: 2,006,725 bytes; Tcl: 1,309,383 bytes; Python: 1,286,153 bytes; TypeScript: 407,975 bytes; C#: 387,000 bytes; HTML: 233,800 bytes; CSS: 141,258 bytes; SCSS: 79,489 bytes; Less: 78,481 bytes; Makefile: 18,840 bytes; Assembly: 12,040 bytes; PowerShell: 8,220 bytes; Inno Setup: 4,986 bytes; Batchfile: 2,218 bytes; Lua: 1,256 bytes</desc>
+<desc id="description">GitHub Linguist code bytes across public owned non-fork repositories; not skill proficiency or time spent coding. C: 3,123,467 bytes; JavaScript: 2,205,892 bytes; Python: 1,405,586 bytes; Tcl: 1,309,383 bytes; TypeScript: 407,975 bytes; C#: 387,000 bytes; HTML: 233,800 bytes; CSS: 141,258 bytes; SCSS: 79,489 bytes; Less: 78,481 bytes; Makefile: 18,840 bytes; Assembly: 12,040 bytes; PowerShell: 8,220 bytes; Inno Setup: 4,986 bytes; Batchfile: 2,218 bytes; Lua: 1,256 bytes</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#667b8d}.strong{fill:#24364a}.mono{font-family:Consolas,monospace}</style>
 <rect x=".5" y=".5" width="439" height="247" rx="16" fill="#f7fafc" stroke="#dbe8f2"/>
 <text x="25" y="33" font-size="16" font-weight="600" class="strong">Languages</text>
 <text x="25" y="59" font-size="12" class="label">Public non-fork code bytes</text>
 <defs><clipPath id="bar"><rect x="25" y="76" width="390" height="14" rx="7"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="25.0000" y="76" width="133.8439" height="14" fill="#3a8dcc"/>
-<rect x="158.8439" y="76" width="85.9903" height="14" fill="#53b9be"/>
-<rect x="244.8342" y="76" width="56.1085" height="14" fill="#949bc4"/>
-<rect x="300.9426" y="76" width="55.1130" height="14" fill="#caa763"/>
-<rect x="356.0557" y="76" width="17.4822" height="14" fill="#85afca"/>
-<rect x="373.5378" y="76" width="41.4622" height="14" fill="#a8bac8"/>
+<rect x="25.0000" y="76" width="129.3170" height="14" fill="#3a8dcc"/>
+<rect x="154.3170" y="76" width="91.3278" height="14" fill="#53b9be"/>
+<rect x="245.6448" y="76" width="58.1937" height="14" fill="#949bc4"/>
+<rect x="303.8385" y="76" width="54.2108" height="14" fill="#caa763"/>
+<rect x="358.0493" y="76" width="16.8909" height="14" fill="#85afca"/>
+<rect x="374.9402" y="76" width="40.0598" height="14" fill="#a8bac8"/>
 </g>
 <circle cx="29" cy="114" r="4" fill="#3a8dcc"/>
 <text x="40" y="118" font-size="14" class="strong">C</text>
-<text x="207" y="118" text-anchor="end" font-size="14" class="label">34.3%</text>
+<text x="207" y="118" text-anchor="end" font-size="14" class="label">33.2%</text>
 <circle cx="234" cy="114" r="4" fill="#53b9be"/>
 <text x="245" y="118" font-size="14" class="strong">JavaScript</text>
-<text x="412" y="118" text-anchor="end" font-size="14" class="label">22.0%</text>
+<text x="412" y="118" text-anchor="end" font-size="14" class="label">23.4%</text>
 <circle cx="29" cy="148" r="4" fill="#949bc4"/>
-<text x="40" y="152" font-size="14" class="strong">Tcl</text>
-<text x="207" y="152" text-anchor="end" font-size="14" class="label">14.4%</text>
+<text x="40" y="152" font-size="14" class="strong">Python</text>
+<text x="207" y="152" text-anchor="end" font-size="14" class="label">14.9%</text>
 <circle cx="234" cy="148" r="4" fill="#caa763"/>
-<text x="245" y="152" font-size="14" class="strong">Python</text>
-<text x="412" y="152" text-anchor="end" font-size="14" class="label">14.1%</text>
+<text x="245" y="152" font-size="14" class="strong">Tcl</text>
+<text x="412" y="152" text-anchor="end" font-size="14" class="label">13.9%</text>
 <circle cx="29" cy="182" r="4" fill="#85afca"/>
 <text x="40" y="186" font-size="14" class="strong">TypeScript</text>
-<text x="207" y="186" text-anchor="end" font-size="14" class="label">4.5%</text>
+<text x="207" y="186" text-anchor="end" font-size="14" class="label">4.3%</text>
 <circle cx="234" cy="182" r="4" fill="#a8bac8"/>
 <text x="245" y="186" font-size="14" class="strong">Other</text>
-<text x="412" y="186" text-anchor="end" font-size="14" class="label">10.6%</text>
+<text x="412" y="186" text-anchor="end" font-size="14" class="label">10.3%</text>
 <path d="M 25,213 H 415" stroke="#dbe8f2"/>
-<text x="25" y="233" font-size="11" class="label">Code mix, not skill level · 2026-10-09 UTC</text>
+<text x="25" y="233" font-size="11" class="label">Code mix, not skill level · 2026-10-10 UTC</text>
 </svg>
