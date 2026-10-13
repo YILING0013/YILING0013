@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-12T07:27:06.301038+00:00",
+  "generated_at": "2026-10-13T07:48:07.731776+00:00",
   "period": {
-    "start": "2025-10-12",
-    "end": "2026-10-11",
+    "start": "2025-10-13",
+    "end": "2026-10-12",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,30 +18,34 @@
     ]
   },
   "totals": {
-    "stars": 6727,
-    "forks": 1088,
+    "stars": 6745,
+    "forks": 1090,
     "followers": 220,
     "public_owned_repositories": 15,
     "public_nonfork_repositories": 14,
-    "contributions": 61,
-    "active_days": 28,
-    "longest_streak": 2,
-    "commits": 55,
+    "contributions": 44,
+    "active_days": 24,
+    "longest_streak": 3,
+    "commits": 38,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 9713532
+    "language_bytes": 16392787
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6186,
-      "forks": 1059,
+      "stars": 6199,
+      "forks": 1061,
       "languages": {
-        "Python": 389985
+        "Python": 3953891,
+        "TypeScript": 3104844,
+        "CSS": 9927,
+        "Batchfile": 484,
+        "JavaScript": 94
       }
     },
     {
@@ -97,7 +101,7 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 21,
+      "stars": 26,
       "forks": 4,
       "languages": {
         "JavaScript": 1946650,
@@ -196,102 +200,94 @@
   ],
   "languages": [
     {
+      "name": "Python",
+      "bytes": 4969492,
+      "percent": 30.3151135923379
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 3512819,
+      "percent": 21.429052912113114
+    },
+    {
       "name": "C",
       "bytes": 3123467,
-      "percent": 32.15583167894027
+      "percent": 19.053910723051548
     },
     {
       "name": "JavaScript",
-      "bytes": 2499533,
-      "percent": 25.732483302675075
-    },
-    {
-      "name": "Python",
-      "bytes": 1405586,
-      "percent": 14.470390379112356
+      "bytes": 2499627,
+      "percent": 15.248334526642724
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 13.479988535581084
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 407975,
-      "percent": 4.200068522963635
+      "percent": 7.987555746316962
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 3.984132651233352
+      "percent": 2.3607944152510494
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 2.40695145699834
+      "percent": 1.4262370394979207
     },
     {
       "name": "CSS",
-      "bytes": 141258,
-      "percent": 1.4542393024494078
+      "bytes": 151185,
+      "percent": 0.9222653841595086
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.8183326106302011
+      "percent": 0.4849022926973918
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.8079553348874539
+      "percent": 0.47875324677859843
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.19395622519182518
+      "percent": 0.11492859633935339
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.12395079359392648
+      "percent": 0.07344693736336598
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.08462421290216576
+      "percent": 0.050144005409208325
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.051330453227518065
+      "percent": 0.030415816419746076
     },
     {
       "name": "Batchfile",
-      "bytes": 2218,
-      "percent": 0.022834124600608716
+      "bytes": 2702,
+      "percent": 0.016482859198987947
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.012930415012788344
+      "percent": 0.00766190642262356
     }
   ],
   "days": [
-    {
-      "date": "2025-10-12",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 0,
-      "week": 0,
-      "week_start": "2025-10-12"
-    },
     {
       "date": "2025-10-13",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 1,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-14",
@@ -299,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-15",
@@ -307,7 +303,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-16",
@@ -315,7 +311,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-17",
@@ -323,7 +319,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-18",
@@ -331,12 +327,12 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-12"
+      "week_start": "2025-10-13"
     },
     {
       "date": "2025-10-19",
       "contributionCount": 3,
-      "color": "#40c463",
+      "color": "#30a14e",
       "weekday": 0,
       "week": 1,
       "week_start": "2025-10-19"
@@ -847,8 +843,8 @@
     },
     {
       "date": "2025-12-22",
-      "contributionCount": 4,
-      "color": "#40c463",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 1,
       "week": 10,
       "week_start": "2025-12-21"
@@ -1463,7 +1459,7 @@
     },
     {
       "date": "2026-03-09",
-      "contributionCount": 3,
+      "contributionCount": 2,
       "color": "#40c463",
       "weekday": 1,
       "week": 21,
@@ -1591,8 +1587,8 @@
     },
     {
       "date": "2026-03-25",
-      "contributionCount": 1,
-      "color": "#9be9a8",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 3,
       "week": 23,
       "week_start": "2026-03-22"
@@ -1744,7 +1740,7 @@
     {
       "date": "2026-04-13",
       "contributionCount": 2,
-      "color": "#9be9a8",
+      "color": "#40c463",
       "weekday": 1,
       "week": 26,
       "week_start": "2026-04-12"
@@ -1855,8 +1851,8 @@
     },
     {
       "date": "2026-04-27",
-      "contributionCount": 2,
-      "color": "#9be9a8",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 1,
       "week": 28,
       "week_start": "2026-04-26"
@@ -1872,7 +1868,7 @@
     {
       "date": "2026-04-29",
       "contributionCount": 2,
-      "color": "#9be9a8",
+      "color": "#40c463",
       "weekday": 3,
       "week": 28,
       "week_start": "2026-04-26"
@@ -1999,8 +1995,8 @@
     },
     {
       "date": "2026-05-15",
-      "contributionCount": 1,
-      "color": "#9be9a8",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 5,
       "week": 30,
       "week_start": "2026-05-10"
@@ -2031,8 +2027,8 @@
     },
     {
       "date": "2026-05-19",
-      "contributionCount": 10,
-      "color": "#216e39",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 2,
       "week": 31,
       "week_start": "2026-05-17"
@@ -2824,7 +2820,7 @@
     {
       "date": "2026-08-26",
       "contributionCount": 2,
-      "color": "#9be9a8",
+      "color": "#40c463",
       "weekday": 3,
       "week": 45,
       "week_start": "2026-08-23"
@@ -2872,7 +2868,7 @@
     {
       "date": "2026-09-01",
       "contributionCount": 4,
-      "color": "#40c463",
+      "color": "#216e39",
       "weekday": 2,
       "week": 46,
       "week_start": "2026-08-30"
@@ -2936,7 +2932,7 @@
     {
       "date": "2026-09-09",
       "contributionCount": 2,
-      "color": "#9be9a8",
+      "color": "#40c463",
       "weekday": 3,
       "week": 47,
       "week_start": "2026-09-06"
@@ -3080,7 +3076,7 @@
     {
       "date": "2026-09-27",
       "contributionCount": 5,
-      "color": "#40c463",
+      "color": "#216e39",
       "weekday": 0,
       "week": 50,
       "week_start": "2026-09-27"
@@ -3088,7 +3084,7 @@
     {
       "date": "2026-09-28",
       "contributionCount": 3,
-      "color": "#40c463",
+      "color": "#30a14e",
       "weekday": 1,
       "week": 50,
       "week_start": "2026-09-27"
@@ -3112,7 +3108,7 @@
     {
       "date": "2026-10-01",
       "contributionCount": 4,
-      "color": "#40c463",
+      "color": "#216e39",
       "weekday": 4,
       "week": 50,
       "week_start": "2026-09-27"
@@ -3194,6 +3190,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 0,
+      "week": 52,
+      "week_start": "2026-10-11"
+    },
+    {
+      "date": "2026-10-12",
+      "contributionCount": 2,
+      "color": "#40c463",
+      "weekday": 1,
       "week": 52,
       "week_start": "2026-10-11"
     }
