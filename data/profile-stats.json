@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-20T06:06:34.057623+00:00",
+  "generated_at": "2026-10-21T06:06:44.225245+00:00",
   "period": {
-    "start": "2025-10-20",
-    "end": "2026-10-19",
+    "start": "2025-10-21",
+    "end": "2026-10-20",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,10 +18,10 @@
     ]
   },
   "totals": {
-    "stars": 6861,
-    "forks": 1119,
+    "stars": 6871,
+    "forks": 1121,
     "followers": 220,
-    "public_owned_repositories": 15,
+    "public_owned_repositories": 16,
     "public_nonfork_repositories": 14,
     "contributions": 46,
     "active_days": 26,
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6301,
-      "forks": 1087,
+      "stars": 6309,
+      "forks": 1089,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303070,
@@ -76,7 +76,7 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 38,
+      "stars": 40,
       "forks": 7,
       "languages": {
         "JavaScript": 2543476,
@@ -282,20 +282,12 @@
   ],
   "days": [
     {
-      "date": "2025-10-20",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 1,
-      "week": 0,
-      "week_start": "2025-10-20"
-    },
-    {
       "date": "2025-10-21",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-10-20"
+      "week_start": "2025-10-21"
     },
     {
       "date": "2025-10-22",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-10-20"
+      "week_start": "2025-10-21"
     },
     {
       "date": "2025-10-23",
@@ -311,7 +303,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-20"
+      "week_start": "2025-10-21"
     },
     {
       "date": "2025-10-24",
@@ -319,7 +311,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-20"
+      "week_start": "2025-10-21"
     },
     {
       "date": "2025-10-25",
@@ -327,7 +319,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-20"
+      "week_start": "2025-10-21"
     },
     {
       "date": "2025-10-26",
@@ -3198,6 +3190,14 @@
       "contributionCount": 2,
       "color": "#40c463",
       "weekday": 1,
+      "week": 52,
+      "week_start": "2026-10-18"
+    },
+    {
+      "date": "2026-10-20",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 2,
       "week": 52,
       "week_start": "2026-10-18"
     }
