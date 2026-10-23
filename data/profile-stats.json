@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-22T06:09:54.807219+00:00",
+  "generated_at": "2026-10-23T06:05:18.550473+00:00",
   "period": {
-    "start": "2025-10-22",
-    "end": "2026-10-21",
+    "start": "2025-10-23",
+    "end": "2026-10-22",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,7 +18,7 @@
     ]
   },
   "totals": {
-    "stars": 6877,
+    "stars": 6887,
     "forks": 1124,
     "followers": 220,
     "public_owned_repositories": 16,
@@ -38,7 +38,7 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6315,
+      "stars": 6325,
       "forks": 1092,
       "languages": {
         "Python": 4255700,
@@ -282,20 +282,12 @@
   ],
   "days": [
     {
-      "date": "2025-10-22",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 3,
-      "week": 0,
-      "week_start": "2025-10-22"
-    },
-    {
       "date": "2025-10-23",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-22"
+      "week_start": "2025-10-23"
     },
     {
       "date": "2025-10-24",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-22"
+      "week_start": "2025-10-23"
     },
     {
       "date": "2025-10-25",
@@ -311,7 +303,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-22"
+      "week_start": "2025-10-23"
     },
     {
       "date": "2025-10-26",
@@ -3198,6 +3190,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 3,
+      "week": 52,
+      "week_start": "2026-10-18"
+    },
+    {
+      "date": "2026-10-22",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 4,
       "week": 52,
       "week_start": "2026-10-18"
     }
