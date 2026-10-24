@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-23T06:05:18.550473+00:00",
+  "generated_at": "2026-10-24T05:59:08.843687+00:00",
   "period": {
-    "start": "2025-10-23",
-    "end": "2026-10-22",
+    "start": "2025-10-24",
+    "end": "2026-10-23",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,27 +18,27 @@
     ]
   },
   "totals": {
-    "stars": 6887,
+    "stars": 6895,
     "forks": 1124,
     "followers": 220,
     "public_owned_repositories": 16,
     "public_nonfork_repositories": 14,
-    "contributions": 47,
-    "active_days": 27,
+    "contributions": 48,
+    "active_days": 28,
     "longest_streak": 4,
-    "commits": 41,
+    "commits": 42,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 17731712
+    "language_bytes": 17834812
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6325,
+      "stars": 6329,
       "forks": 1092,
       "languages": {
         "Python": 4255700,
@@ -51,7 +51,7 @@
     {
       "name": "ChangeFolderIcon",
       "url": "https://github.com/YILING0013/ChangeFolderIcon",
-      "stars": 308,
+      "stars": 310,
       "forks": 8,
       "languages": {
         "C#": 98724,
@@ -76,11 +76,11 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 40,
+      "stars": 42,
       "forks": 7,
       "languages": {
-        "JavaScript": 2543476,
-        "Python": 755124,
+        "JavaScript": 2592617,
+        "Python": 809083,
         "CSS": 74180,
         "PowerShell": 6772,
         "Batchfile": 2218
@@ -201,101 +201,93 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 5439293,
-      "percent": 30.675509505229954
+      "bytes": 5493252,
+      "percent": 30.800728373251147
     },
     {
       "name": "TypeScript",
       "bytes": 3711045,
-      "percent": 20.928858984400378
+      "percent": 20.807872827591343
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 3146145,
+      "percent": 17.640471904049228
     },
     {
       "name": "C",
       "bytes": 3123467,
-      "percent": 17.61514624194212
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 3097004,
-      "percent": 17.465905153433578
+      "percent": 17.513316092146077
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 7.3844138682153195
+      "percent": 7.341725833723395
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 2.182530372701745
+      "percent": 2.1699135376363934
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 1.3185416050068939
+      "percent": 1.3109193413420899
     },
     {
       "name": "CSS",
       "bytes": 224706,
-      "percent": 1.267254961055086
+      "percent": 1.2599291767134972
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.4482872268622455
+      "percent": 0.44569575502113506
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.44260249658916184
+      "percent": 0.44004388720217513
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.1062503158183485
+      "percent": 0.10563610090198877
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.06790094492849873
+      "percent": 0.06750842117091002
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.046357621869789
+      "percent": 0.04608963638080402
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.028119112243645737
+      "percent": 0.027956560461640974
     },
     {
       "name": "Batchfile",
       "bytes": 2702,
-      "percent": 0.015238235315349132
+      "percent": 0.015150145681378643
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.007083354387889901
+      "percent": 0.00704240672679925
     }
   ],
   "days": [
-    {
-      "date": "2025-10-23",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 4,
-      "week": 0,
-      "week_start": "2025-10-23"
-    },
     {
       "date": "2025-10-24",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-23"
+      "week_start": "2025-10-24"
     },
     {
       "date": "2025-10-25",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-23"
+      "week_start": "2025-10-24"
     },
     {
       "date": "2025-10-26",
@@ -3198,6 +3190,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 4,
+      "week": 52,
+      "week_start": "2026-10-18"
+    },
+    {
+      "date": "2026-10-23",
+      "contributionCount": 1,
+      "color": "#9be9a8",
+      "weekday": 5,
       "week": 52,
       "week_start": "2026-10-18"
     }
