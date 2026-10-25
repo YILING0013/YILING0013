@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-24T05:59:08.843687+00:00",
+  "generated_at": "2026-10-25T06:14:42.780281+00:00",
   "period": {
-    "start": "2025-10-24",
-    "end": "2026-10-23",
+    "start": "2025-10-25",
+    "end": "2026-10-24",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,27 +18,27 @@
     ]
   },
   "totals": {
-    "stars": 6895,
+    "stars": 6899,
     "forks": 1124,
     "followers": 220,
     "public_owned_repositories": 16,
     "public_nonfork_repositories": 14,
-    "contributions": 48,
-    "active_days": 28,
+    "contributions": 49,
+    "active_days": 29,
     "longest_streak": 4,
-    "commits": 42,
+    "commits": 43,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 17834812
+    "language_bytes": 18102296
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6329,
+      "stars": 6332,
       "forks": 1092,
       "languages": {
         "Python": 4255700,
@@ -76,11 +76,11 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 42,
+      "stars": 43,
       "forks": 7,
       "languages": {
-        "JavaScript": 2592617,
-        "Python": 809083,
+        "JavaScript": 2775888,
+        "Python": 893296,
         "CSS": 74180,
         "PowerShell": 6772,
         "Batchfile": 2218
@@ -201,101 +201,93 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 5493252,
-      "percent": 30.800728373251147
+      "bytes": 5577465,
+      "percent": 30.81081537944137
     },
     {
       "name": "TypeScript",
       "bytes": 3711045,
-      "percent": 20.807872827591343
+      "percent": 20.50041055565548
     },
     {
       "name": "JavaScript",
-      "bytes": 3146145,
-      "percent": 17.640471904049228
+      "bytes": 3329416,
+      "percent": 18.39223046623478
     },
     {
       "name": "C",
       "bytes": 3123467,
-      "percent": 17.513316092146077
+      "percent": 17.254535004841376
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 7.341725833723395
+      "percent": 7.23324267816635
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 2.1699135376363934
+      "percent": 2.137850358871604
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 1.3109193413420899
+      "percent": 1.2915488731374185
     },
     {
       "name": "CSS",
       "bytes": 224706,
-      "percent": 1.2599291767134972
+      "percent": 1.241312151784503
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.44569575502113506
+      "percent": 0.43911004438332024
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.44004388720217513
+      "percent": 0.4335416899602128
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.10563610090198877
+      "percent": 0.10407519576522226
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.06750842117091002
+      "percent": 0.06651090005378324
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.04608963638080402
+      "percent": 0.04540860452176895
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.027956560461640974
+      "percent": 0.02754346741429927
     },
     {
       "name": "Batchfile",
       "bytes": 2702,
-      "percent": 0.015150145681378643
+      "percent": 0.014926283384162983
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.00704240672679925
+      "percent": 0.006938346384348151
     }
   ],
   "days": [
-    {
-      "date": "2025-10-24",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 5,
-      "week": 0,
-      "week_start": "2025-10-24"
-    },
     {
       "date": "2025-10-25",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-24"
+      "week_start": "2025-10-25"
     },
     {
       "date": "2025-10-26",
@@ -3198,6 +3190,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 5,
+      "week": 52,
+      "week_start": "2026-10-18"
+    },
+    {
+      "date": "2026-10-24",
+      "contributionCount": 1,
+      "color": "#9be9a8",
+      "weekday": 6,
       "week": 52,
       "week_start": "2026-10-18"
     }
