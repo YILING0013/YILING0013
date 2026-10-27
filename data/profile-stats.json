@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-26T06:23:22.742565+00:00",
+  "generated_at": "2026-10-27T06:23:58.065228+00:00",
   "period": {
-    "start": "2025-10-26",
-    "end": "2026-10-25",
+    "start": "2025-10-27",
+    "end": "2026-10-26",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,28 +18,28 @@
     ]
   },
   "totals": {
-    "stars": 6906,
-    "forks": 1125,
-    "followers": 220,
+    "stars": 6920,
+    "forks": 1132,
+    "followers": 221,
     "public_owned_repositories": 16,
     "public_nonfork_repositories": 14,
-    "contributions": 49,
-    "active_days": 29,
+    "contributions": 50,
+    "active_days": 30,
     "longest_streak": 4,
-    "commits": 43,
+    "commits": 44,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 18102296
+    "language_bytes": 18138348
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6337,
-      "forks": 1093,
+      "stars": 6346,
+      "forks": 1097,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303070,
@@ -76,11 +76,11 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 45,
-      "forks": 7,
+      "stars": 50,
+      "forks": 8,
       "languages": {
-        "JavaScript": 2775888,
-        "Python": 893296,
+        "JavaScript": 2799344,
+        "Python": 905892,
         "CSS": 74180,
         "PowerShell": 6772,
         "Batchfile": 2218
@@ -101,7 +101,7 @@
       "name": "Shortcut_Hint",
       "url": "https://github.com/YILING0013/Shortcut_Hint",
       "stars": 27,
-      "forks": 0,
+      "forks": 1,
       "languages": {
         "TypeScript": 407975,
         "Python": 23441,
@@ -165,7 +165,7 @@
       "name": "markdown_2_docx",
       "url": "https://github.com/YILING0013/markdown_2_docx",
       "stars": 1,
-      "forks": 2,
+      "forks": 3,
       "languages": {
         "CSS": 12697,
         "JavaScript": 12513,
@@ -201,101 +201,93 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 5577465,
-      "percent": 30.81081537944137
+      "bytes": 5590061,
+      "percent": 30.819019460868212
     },
     {
       "name": "TypeScript",
       "bytes": 3711045,
-      "percent": 20.50041055565548
+      "percent": 20.45966369153354
     },
     {
       "name": "JavaScript",
-      "bytes": 3329416,
-      "percent": 18.39223046623478
+      "bytes": 3352872,
+      "percent": 18.48499102564357
     },
     {
       "name": "C",
       "bytes": 3123467,
-      "percent": 17.254535004841376
+      "percent": 17.220239682246696
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 7.23324267816635
+      "percent": 7.218865797480564
     },
     {
       "name": "C#",
       "bytes": 387000,
-      "percent": 2.137850358871604
+      "percent": 2.133601141625467
     },
     {
       "name": "HTML",
       "bytes": 233800,
-      "percent": 1.2915488731374185
+      "percent": 1.2889817749664962
     },
     {
       "name": "CSS",
       "bytes": 224706,
-      "percent": 1.241312151784503
+      "percent": 1.23884490472892
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.43911004438332024
+      "percent": 0.4382372639448752
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.4335416899602128
+      "percent": 0.43267997725040896
     },
     {
       "name": "Makefile",
       "bytes": 18840,
-      "percent": 0.10407519576522226
+      "percent": 0.1038683346465731
     },
     {
       "name": "Assembly",
       "bytes": 12040,
-      "percent": 0.06651090005378324
+      "percent": 0.0663787021839034
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.04540860452176895
+      "percent": 0.045318349829874253
     },
     {
       "name": "Inno Setup",
       "bytes": 4986,
-      "percent": 0.02754346741429927
+      "percent": 0.027488721685128104
     },
     {
       "name": "Batchfile",
       "bytes": 2702,
-      "percent": 0.014926283384162983
+      "percent": 0.014896615722666696
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.006938346384348151
+      "percent": 0.006924555643104873
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 0,
-      "week": 0,
-      "week_start": "2025-10-26"
-    },
     {
       "date": "2025-10-27",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 1,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-10-28",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-10-29",
@@ -311,7 +303,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-10-30",
@@ -319,7 +311,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-10-31",
@@ -327,7 +319,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-11-01",
@@ -335,7 +327,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-26"
+      "week_start": "2025-10-27"
     },
     {
       "date": "2025-11-02",
@@ -3198,6 +3190,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 0,
+      "week": 52,
+      "week_start": "2026-10-25"
+    },
+    {
+      "date": "2026-10-26",
+      "contributionCount": 1,
+      "color": "#9be9a8",
+      "weekday": 1,
       "week": 52,
       "week_start": "2026-10-25"
     }
