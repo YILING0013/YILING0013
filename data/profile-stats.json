@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-10-29T07:12:35.198529+00:00",
+  "generated_at": "2026-10-30T07:15:20.229679+00:00",
   "period": {
-    "start": "2025-10-29",
-    "end": "2026-10-28",
+    "start": "2025-10-30",
+    "end": "2026-10-29",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,9 +18,9 @@
     ]
   },
   "totals": {
-    "stars": 6939,
-    "forks": 1133,
-    "followers": 221,
+    "stars": 6946,
+    "forks": 1136,
+    "followers": 222,
     "public_owned_repositories": 16,
     "public_nonfork_repositories": 14,
     "contributions": 51,
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6360,
-      "forks": 1098,
+      "stars": 6364,
+      "forks": 1101,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303070,
@@ -51,7 +51,7 @@
     {
       "name": "ChangeFolderIcon",
       "url": "https://github.com/YILING0013/ChangeFolderIcon",
-      "stars": 310,
+      "stars": 311,
       "forks": 8,
       "languages": {
         "C#": 98724,
@@ -76,7 +76,7 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 55,
+      "stars": 57,
       "forks": 8,
       "languages": {
         "JavaScript": 2819580,
@@ -282,20 +282,12 @@
   ],
   "days": [
     {
-      "date": "2025-10-29",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 3,
-      "week": 0,
-      "week_start": "2025-10-29"
-    },
-    {
       "date": "2025-10-30",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-10-29"
+      "week_start": "2025-10-30"
     },
     {
       "date": "2025-10-31",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-10-29"
+      "week_start": "2025-10-30"
     },
     {
       "date": "2025-11-01",
@@ -311,7 +303,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-10-29"
+      "week_start": "2025-10-30"
     },
     {
       "date": "2025-11-02",
@@ -3198,6 +3190,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 3,
+      "week": 52,
+      "week_start": "2026-10-25"
+    },
+    {
+      "date": "2026-10-29",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 4,
       "week": 52,
       "week_start": "2026-10-25"
     }
