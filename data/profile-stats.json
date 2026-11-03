@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-02T07:45:29.484343+00:00",
+  "generated_at": "2026-11-03T07:59:01.703423+00:00",
   "period": {
-    "start": "2025-11-02",
-    "end": "2026-11-01",
+    "start": "2025-11-03",
+    "end": "2026-11-02",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,8 +18,8 @@
     ]
   },
   "totals": {
-    "stars": 6970,
-    "forks": 1136,
+    "stars": 6980,
+    "forks": 1140,
     "followers": 223,
     "public_owned_repositories": 17,
     "public_nonfork_repositories": 15,
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6384,
-      "forks": 1101,
+      "stars": 6393,
+      "forks": 1105,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303070,
@@ -51,7 +51,7 @@
     {
       "name": "ChangeFolderIcon",
       "url": "https://github.com/YILING0013/ChangeFolderIcon",
-      "stars": 313,
+      "stars": 314,
       "forks": 8,
       "languages": {
         "C#": 98724,
@@ -289,20 +289,12 @@
   ],
   "days": [
     {
-      "date": "2025-11-02",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 0,
-      "week": 0,
-      "week_start": "2025-11-02"
-    },
-    {
       "date": "2025-11-03",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 1,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-04",
@@ -310,7 +302,7 @@
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-05",
@@ -318,7 +310,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-06",
@@ -326,7 +318,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-07",
@@ -334,7 +326,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-08",
@@ -342,7 +334,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-02"
+      "week_start": "2025-11-03"
     },
     {
       "date": "2025-11-09",
@@ -3205,6 +3197,14 @@
       "contributionCount": 2,
       "color": "#40c463",
       "weekday": 0,
+      "week": 52,
+      "week_start": "2026-11-01"
+    },
+    {
+      "date": "2026-11-02",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 1,
       "week": 52,
       "week_start": "2026-11-01"
     }
