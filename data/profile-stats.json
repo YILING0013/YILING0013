@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-07T07:16:40.166285+00:00",
+  "generated_at": "2026-11-08T07:28:22.946042+00:00",
   "period": {
-    "start": "2025-11-07",
-    "end": "2026-11-06",
+    "start": "2025-11-08",
+    "end": "2026-11-07",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,28 +18,28 @@
     ]
   },
   "totals": {
-    "stars": 7021,
-    "forks": 1150,
+    "stars": 7012,
+    "forks": 1152,
     "followers": 223,
-    "public_owned_repositories": 17,
-    "public_nonfork_repositories": 15,
-    "contributions": 54,
-    "active_days": 33,
+    "public_owned_repositories": 14,
+    "public_nonfork_repositories": 13,
+    "contributions": 53,
+    "active_days": 32,
     "longest_streak": 4,
     "commits": 47,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
-    "created_repositories": 5,
+    "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 18159027
+    "language_bytes": 14761349
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6426,
-      "forks": 1113,
+      "stars": 6428,
+      "forks": 1116,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303378,
@@ -59,8 +59,8 @@
       }
     },
     {
-      "name": "xianyun_NaiGenIMG",
-      "url": "https://github.com/YILING0013/xianyun_NaiGenIMG",
+      "name": "NaiGenIMG",
+      "url": "https://github.com/YILING0013/NaiGenIMG",
       "stars": 119,
       "forks": 7,
       "languages": {
@@ -112,25 +112,14 @@
       }
     },
     {
-      "name": "XianyunApp",
-      "url": "https://github.com/YILING0013/XianyunApp",
+      "name": "NovelAI_App",
+      "url": "https://github.com/YILING0013/NovelAI_App",
       "stars": 18,
       "forks": 3,
       "languages": {
         "C#": 267610,
         "Inno Setup": 1436,
         "Python": 1072
-      }
-    },
-    {
-      "name": "extract_data_win",
-      "url": "https://github.com/YILING0013/extract_data_win",
-      "stars": 11,
-      "forks": 1,
-      "languages": {
-        "C#": 20666,
-        "Python": 2604,
-        "Inno Setup": 1188
       }
     },
     {
@@ -190,119 +179,83 @@
       "stars": 0,
       "forks": 0,
       "languages": {}
-    },
-    {
-      "name": "robotic_arm_controller",
-      "url": "https://github.com/YILING0013/robotic_arm_controller",
-      "stars": 0,
-      "forks": 0,
-      "languages": {
-        "C": 3123467,
-        "Python": 127708,
-        "HTML": 91165,
-        "Makefile": 18840,
-        "Assembly": 12040
-      }
     }
   ],
   "languages": [
     {
       "name": "Python",
-      "bytes": 5590061,
-      "percent": 30.783923610003995
+      "bytes": 5459749,
+      "percent": 36.98678894456056
     },
     {
       "name": "TypeScript",
       "bytes": 3711353,
-      "percent": 20.43806091592903
+      "percent": 25.142370118069834
     },
     {
       "name": "JavaScript",
       "bytes": 3373108,
-      "percent": 18.575378515599983
-    },
-    {
-      "name": "C",
-      "bytes": 3123467,
-      "percent": 17.20062974739781
+      "percent": 22.850946752901784
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 7.2106451518575305
+      "percent": 8.87034782525635
     },
     {
       "name": "C#",
-      "bytes": 387000,
-      "percent": 2.1311714553868994
-    },
-    {
-      "name": "HTML",
-      "bytes": 233800,
-      "percent": 1.287513918008933
+      "bytes": 366334,
+      "percent": 2.4817108517656483
     },
     {
       "name": "CSS",
       "bytes": 224841,
-      "percent": 1.2381775741618755
+      "percent": 1.523173796649615
+    },
+    {
+      "name": "HTML",
+      "bytes": 142635,
+      "percent": 0.9662734754120371
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.4377382114140807
+      "percent": 0.5384941444037398
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.4321872532047009
-    },
-    {
-      "name": "Makefile",
-      "bytes": 18840,
-      "percent": 0.10375005224674207
-    },
-    {
-      "name": "Assembly",
-      "bytes": 12040,
-      "percent": 0.06630311194537021
+      "percent": 0.5316655002195261
     },
     {
       "name": "PowerShell",
       "bytes": 8220,
-      "percent": 0.045266742540776
+      "percent": 0.05568596745460053
     },
     {
       "name": "Inno Setup",
-      "bytes": 4986,
-      "percent": 0.027457418285682378
+      "bytes": 3798,
+      "percent": 0.025729355765519803
     },
     {
       "name": "Batchfile",
       "bytes": 2702,
-      "percent": 0.014879651866809824
+      "percent": 0.0183045601049064
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.006916670149782806
+      "percent": 0.008508707435885433
     }
   ],
   "days": [
-    {
-      "date": "2025-11-07",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 5,
-      "week": 0,
-      "week_start": "2025-11-07"
-    },
     {
       "date": "2025-11-08",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-07"
+      "week_start": "2025-11-08"
     },
     {
       "date": "2025-11-09",
@@ -818,8 +771,8 @@
     },
     {
       "date": "2026-01-12",
-      "contributionCount": 1,
-      "color": "#9be9a8",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 1,
       "week": 10,
       "week_start": "2026-01-11"
@@ -3205,6 +3158,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 5,
+      "week": 52,
+      "week_start": "2026-11-01"
+    },
+    {
+      "date": "2026-11-07",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 6,
       "week": 52,
       "week_start": "2026-11-01"
     }
