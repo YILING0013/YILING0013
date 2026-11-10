@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-09T08:06:13.246836+00:00",
+  "generated_at": "2026-11-10T08:28:34.386610+00:00",
   "period": {
-    "start": "2025-11-09",
-    "end": "2026-11-08",
+    "start": "2025-11-10",
+    "end": "2026-11-09",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,15 +18,15 @@
     ]
   },
   "totals": {
-    "stars": 7013,
-    "forks": 1152,
-    "followers": 223,
+    "stars": 7020,
+    "forks": 1155,
+    "followers": 224,
     "public_owned_repositories": 14,
     "public_nonfork_repositories": 13,
-    "contributions": 53,
-    "active_days": 32,
+    "contributions": 55,
+    "active_days": 33,
     "longest_streak": 4,
-    "commits": 47,
+    "commits": 49,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6428,
-      "forks": 1116,
+      "stars": 6432,
+      "forks": 1119,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303378,
@@ -76,7 +76,7 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 67,
+      "stars": 70,
       "forks": 10,
       "languages": {
         "JavaScript": 2819580,
@@ -250,20 +250,12 @@
   ],
   "days": [
     {
-      "date": "2025-11-09",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 0,
-      "week": 0,
-      "week_start": "2025-11-09"
-    },
-    {
       "date": "2025-11-10",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 1,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-11",
@@ -271,7 +263,7 @@
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-12",
@@ -279,7 +271,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-13",
@@ -287,7 +279,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-14",
@@ -295,7 +287,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-15",
@@ -303,7 +295,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-09"
+      "week_start": "2025-11-10"
     },
     {
       "date": "2025-11-16",
@@ -3166,6 +3158,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 0,
+      "week": 52,
+      "week_start": "2026-11-08"
+    },
+    {
+      "date": "2026-11-09",
+      "contributionCount": 2,
+      "color": "#40c463",
+      "weekday": 1,
       "week": 52,
       "week_start": "2026-11-08"
     }
