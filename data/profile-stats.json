@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-10T08:28:34.386610+00:00",
+  "generated_at": "2026-11-11T07:48:10.955442+00:00",
   "period": {
-    "start": "2025-11-10",
-    "end": "2026-11-09",
+    "start": "2025-11-11",
+    "end": "2026-11-10",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,19 +18,19 @@
     ]
   },
   "totals": {
-    "stars": 7020,
-    "forks": 1155,
+    "stars": 7024,
+    "forks": 1154,
     "followers": 224,
-    "public_owned_repositories": 14,
+    "public_owned_repositories": 13,
     "public_nonfork_repositories": 13,
     "contributions": 55,
     "active_days": 33,
     "longest_streak": 4,
-    "commits": 49,
+    "commits": 50,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
-    "created_repositories": 4,
+    "created_repositories": 3,
     "restricted_contributions": 0,
     "language_bytes": 14761349
   },
@@ -38,8 +38,8 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6432,
-      "forks": 1119,
+      "stars": 6436,
+      "forks": 1118,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303378,
@@ -250,20 +250,12 @@
   ],
   "days": [
     {
-      "date": "2025-11-10",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 1,
-      "week": 0,
-      "week_start": "2025-11-10"
-    },
-    {
       "date": "2025-11-11",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 2,
       "week": 0,
-      "week_start": "2025-11-10"
+      "week_start": "2025-11-11"
     },
     {
       "date": "2025-11-12",
@@ -271,7 +263,7 @@
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-11-10"
+      "week_start": "2025-11-11"
     },
     {
       "date": "2025-11-13",
@@ -279,7 +271,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-11-10"
+      "week_start": "2025-11-11"
     },
     {
       "date": "2025-11-14",
@@ -287,7 +279,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-10"
+      "week_start": "2025-11-11"
     },
     {
       "date": "2025-11-15",
@@ -295,7 +287,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-10"
+      "week_start": "2025-11-11"
     },
     {
       "date": "2025-11-16",
@@ -3011,8 +3003,8 @@
     },
     {
       "date": "2026-10-21",
-      "contributionCount": 1,
-      "color": "#9be9a8",
+      "contributionCount": 0,
+      "color": "#ebedf0",
       "weekday": 3,
       "week": 49,
       "week_start": "2026-10-18"
@@ -3166,6 +3158,14 @@
       "contributionCount": 2,
       "color": "#40c463",
       "weekday": 1,
+      "week": 52,
+      "week_start": "2026-11-08"
+    },
+    {
+      "date": "2026-11-10",
+      "contributionCount": 1,
+      "color": "#9be9a8",
+      "weekday": 2,
       "week": 52,
       "week_start": "2026-11-08"
     }
