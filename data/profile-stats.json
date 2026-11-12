@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-11T07:48:10.955442+00:00",
+  "generated_at": "2026-11-12T08:24:55.577799+00:00",
   "period": {
-    "start": "2025-11-11",
-    "end": "2026-11-10",
+    "start": "2025-11-12",
+    "end": "2026-11-11",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,7 +18,7 @@
     ]
   },
   "totals": {
-    "stars": 7024,
+    "stars": 7033,
     "forks": 1154,
     "followers": 224,
     "public_owned_repositories": 13,
@@ -38,7 +38,7 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6436,
+      "stars": 6445,
       "forks": 1118,
       "languages": {
         "Python": 4255700,
@@ -250,20 +250,12 @@
   ],
   "days": [
     {
-      "date": "2025-11-11",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 2,
-      "week": 0,
-      "week_start": "2025-11-11"
-    },
-    {
       "date": "2025-11-12",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 3,
       "week": 0,
-      "week_start": "2025-11-11"
+      "week_start": "2025-11-12"
     },
     {
       "date": "2025-11-13",
@@ -271,7 +263,7 @@
       "color": "#ebedf0",
       "weekday": 4,
       "week": 0,
-      "week_start": "2025-11-11"
+      "week_start": "2025-11-12"
     },
     {
       "date": "2025-11-14",
@@ -279,7 +271,7 @@
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-11"
+      "week_start": "2025-11-12"
     },
     {
       "date": "2025-11-15",
@@ -287,7 +279,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-11"
+      "week_start": "2025-11-12"
     },
     {
       "date": "2025-11-16",
@@ -3166,6 +3158,14 @@
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 2,
+      "week": 52,
+      "week_start": "2026-11-08"
+    },
+    {
+      "date": "2026-11-11",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 3,
       "week": 52,
       "week_start": "2026-11-08"
     }
