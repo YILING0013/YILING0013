@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="248" viewBox="0 0 440 248" role="img" aria-labelledby="title description">
 <title id="title">Languages</title>
-<desc id="description">GitHub Linguist code bytes across public owned non-fork repositories; not skill proficiency or time spent coding. Python: 5,462,743 bytes; TypeScript: 3,711,353 bytes; JavaScript: 3,461,806 bytes; Tcl: 1,309,383 bytes; C#: 366,334 bytes; Rust: 305,485 bytes; CSS: 225,028 bytes; HTML: 142,906 bytes; SCSS: 79,489 bytes; Less: 78,481 bytes; PowerShell: 14,206 bytes; Inno Setup: 3,798 bytes; NSIS: 2,163 bytes; Lua: 1,256 bytes; Batchfile: 1,191 bytes</desc>
+<desc id="description">GitHub Linguist code bytes across public owned non-fork repositories; not skill proficiency or time spent coding. Python: 5,462,743 bytes; TypeScript: 3,711,353 bytes; JavaScript: 3,470,280 bytes; Tcl: 1,309,383 bytes; C#: 366,334 bytes; Rust: 305,485 bytes; CSS: 225,132 bytes; HTML: 142,906 bytes; SCSS: 79,489 bytes; Less: 78,481 bytes; PowerShell: 14,206 bytes; Inno Setup: 3,798 bytes; NSIS: 2,163 bytes; Lua: 1,256 bytes; Batchfile: 1,191 bytes</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.label{fill:#667b8d}.strong{fill:#24364a}.mono{font-family:Consolas,monospace}</style>
 <rect x=".5" y=".5" width="439" height="247" rx="16" fill="#f7fafc" stroke="#dbe8f2"/>
 <text x="25" y="33" font-size="16" font-weight="600" class="strong">Languages</text>
 <text x="25" y="59" font-size="12" class="label">Public non-fork code bytes</text>
 <defs><clipPath id="bar"><rect x="25" y="76" width="390" height="14" rx="7"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="25.0000" y="76" width="140.4802" height="14" fill="#3a8dcc"/>
-<rect x="165.4802" y="76" width="95.4414" height="14" fill="#53b9be"/>
-<rect x="260.9216" y="76" width="89.0240" height="14" fill="#949bc4"/>
-<rect x="349.9456" y="76" width="33.6722" height="14" fill="#caa763"/>
-<rect x="383.6177" y="76" width="9.4207" height="14" fill="#85afca"/>
-<rect x="393.0384" y="76" width="21.9616" height="14" fill="#a8bac8"/>
+<rect x="25.0000" y="76" width="140.4008" height="14" fill="#3a8dcc"/>
+<rect x="165.4008" y="76" width="95.3874" height="14" fill="#53b9be"/>
+<rect x="260.7882" y="76" width="89.1915" height="14" fill="#949bc4"/>
+<rect x="349.9797" y="76" width="33.6531" height="14" fill="#caa763"/>
+<rect x="383.6328" y="76" width="9.4153" height="14" fill="#85afca"/>
+<rect x="393.0482" y="76" width="21.9518" height="14" fill="#a8bac8"/>
 </g>
 <circle cx="29" cy="114" r="4" fill="#3a8dcc"/>
 <text x="40" y="118" font-size="14" class="strong">Python</text>
@@ -22,7 +22,7 @@
 <text x="412" y="118" text-anchor="end" font-size="14" class="label">24.5%</text>
 <circle cx="29" cy="148" r="4" fill="#949bc4"/>
 <text x="40" y="152" font-size="14" class="strong">JavaScript</text>
-<text x="207" y="152" text-anchor="end" font-size="14" class="label">22.8%</text>
+<text x="207" y="152" text-anchor="end" font-size="14" class="label">22.9%</text>
 <circle cx="234" cy="148" r="4" fill="#caa763"/>
 <text x="245" y="152" font-size="14" class="strong">Tcl</text>
 <text x="412" y="152" text-anchor="end" font-size="14" class="label">8.6%</text>
@@ -33,5 +33,5 @@
 <text x="245" y="186" font-size="14" class="strong">Other</text>
 <text x="412" y="186" text-anchor="end" font-size="14" class="label">5.6%</text>
 <path d="M 25,213 H 415" stroke="#dbe8f2"/>
-<text x="25" y="233" font-size="11" class="label">Code mix, not skill level · 2026-11-16 UTC</text>
+<text x="25" y="233" font-size="11" class="label">Code mix, not skill level · 2026-11-17 UTC</text>
 </svg>
