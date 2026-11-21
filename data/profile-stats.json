@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-20T08:39:33.773953+00:00",
+  "generated_at": "2026-11-21T08:21:11.755758+00:00",
   "period": {
-    "start": "2025-11-20",
-    "end": "2026-11-19",
+    "start": "2025-11-21",
+    "end": "2026-11-20",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,28 +18,28 @@
     ]
   },
   "totals": {
-    "stars": 7101,
-    "forks": 1165,
-    "followers": 224,
+    "stars": 7108,
+    "forks": 1166,
+    "followers": 225,
     "public_owned_repositories": 14,
     "public_nonfork_repositories": 14,
-    "contributions": 75,
-    "active_days": 39,
-    "longest_streak": 6,
-    "commits": 69,
+    "contributions": 79,
+    "active_days": 40,
+    "longest_streak": 7,
+    "commits": 73,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 15366574
+    "language_bytes": 15416963
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6509,
-      "forks": 1126,
+      "stars": 6515,
+      "forks": 1127,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303378,
@@ -76,14 +76,14 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 73,
+      "stars": 74,
       "forks": 13,
       "languages": {
-        "JavaScript": 3030266,
+        "JavaScript": 3049518,
         "Python": 908886,
         "Rust": 323733,
+        "Java": 85310,
         "CSS": 79067,
-        "Java": 54173,
         "PowerShell": 13898,
         "NSIS": 2163,
         "HTML": 974,
@@ -196,100 +196,92 @@
     {
       "name": "Python",
       "bytes": 5462743,
-      "percent": 35.54951806433887
+      "percent": 35.433327562633444
     },
     {
       "name": "TypeScript",
       "bytes": 3711353,
-      "percent": 24.15211744660846
+      "percent": 24.0731783555555
     },
     {
       "name": "JavaScript",
-      "bytes": 3583794,
-      "percent": 23.322010488479737
+      "bytes": 3603046,
+      "percent": 23.370659967206254
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 8.520981970346805
+      "percent": 8.493131883367692
     },
     {
       "name": "C#",
       "bytes": 366334,
-      "percent": 2.3839666538553095
+      "percent": 2.376174866606348
     },
     {
       "name": "Rust",
       "bytes": 323733,
-      "percent": 2.10673504712241
+      "percent": 2.0998493672197305
     },
     {
       "name": "CSS",
       "bytes": 229728,
-      "percent": 1.494985154140409
+      "percent": 1.4900989254498438
     },
     {
       "name": "HTML",
       "bytes": 143609,
-      "percent": 0.9345544426493504
+      "percent": 0.9314999328985871
+    },
+    {
+      "name": "Java",
+      "bytes": 85310,
+      "percent": 0.5533515258485086
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.517285115081605
+      "percent": 0.5155944137635928
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.5107254225958239
-    },
-    {
-      "name": "Java",
-      "bytes": 54173,
-      "percent": 0.3525379176906967
+      "percent": 0.5090561610610339
     },
     {
       "name": "PowerShell",
       "bytes": 15346,
-      "percent": 0.09986611199087056
+      "percent": 0.09953970830701223
     },
     {
       "name": "Inno Setup",
       "bytes": 3798,
-      "percent": 0.024715984187496834
+      "percent": 0.02463520214714143
     },
     {
       "name": "NSIS",
       "bytes": 2163,
-      "percent": 0.014076006792405386
+      "percent": 0.01403000059090756
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.008173585081489212
+      "percent": 0.008146870430966202
     },
     {
       "name": "Batchfile",
       "bytes": 1191,
-      "percent": 0.007750589038259276
+      "percent": 0.007725256913440086
     }
   ],
   "days": [
-    {
-      "date": "2025-11-20",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 4,
-      "week": 0,
-      "week_start": "2025-11-20"
-    },
     {
       "date": "2025-11-21",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-20"
+      "week_start": "2025-11-21"
     },
     {
       "date": "2025-11-22",
@@ -297,7 +289,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-20"
+      "week_start": "2025-11-21"
     },
     {
       "date": "2025-11-23",
@@ -3192,6 +3184,14 @@
       "contributionCount": 3,
       "color": "#30a14e",
       "weekday": 4,
+      "week": 52,
+      "week_start": "2026-11-15"
+    },
+    {
+      "date": "2026-11-20",
+      "contributionCount": 4,
+      "color": "#216e39",
+      "weekday": 5,
       "week": 52,
       "week_start": "2026-11-15"
     }
