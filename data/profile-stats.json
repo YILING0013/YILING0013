@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-21T08:21:11.755758+00:00",
+  "generated_at": "2026-11-22T08:07:49.994869+00:00",
   "period": {
-    "start": "2025-11-21",
-    "end": "2026-11-20",
+    "start": "2025-11-22",
+    "end": "2026-11-21",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,28 +18,28 @@
     ]
   },
   "totals": {
-    "stars": 7108,
-    "forks": 1166,
+    "stars": 7112,
+    "forks": 1167,
     "followers": 225,
-    "public_owned_repositories": 14,
-    "public_nonfork_repositories": 14,
-    "contributions": 79,
-    "active_days": 40,
-    "longest_streak": 7,
-    "commits": 73,
+    "public_owned_repositories": 15,
+    "public_nonfork_repositories": 15,
+    "contributions": 84,
+    "active_days": 41,
+    "longest_streak": 8,
+    "commits": 78,
     "pull_requests": 1,
     "issues": 1,
     "reviews": 0,
     "created_repositories": 4,
     "restricted_contributions": 0,
-    "language_bytes": 15416963
+    "language_bytes": 15830877
   },
   "repositories": [
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6515,
-      "forks": 1127,
+      "stars": 6518,
+      "forks": 1128,
       "languages": {
         "Python": 4255700,
         "TypeScript": 3303378,
@@ -76,14 +76,14 @@
     {
       "name": "novelai_local_web",
       "url": "https://github.com/YILING0013/novelai_local_web",
-      "stars": 74,
+      "stars": 75,
       "forks": 13,
       "languages": {
-        "JavaScript": 3049518,
-        "Python": 908886,
+        "JavaScript": 3259103,
+        "Python": 911738,
         "Rust": 323733,
+        "CSS": 86977,
         "Java": 85310,
-        "CSS": 79067,
         "PowerShell": 13898,
         "NSIS": 2163,
         "HTML": 974,
@@ -178,6 +178,17 @@
       }
     },
     {
+      "name": "ciyu",
+      "url": "https://github.com/YILING0013/ciyu",
+      "stars": 0,
+      "forks": 0,
+      "languages": {
+        "JavaScript": 140975,
+        "CSS": 45528,
+        "Python": 7064
+      }
+    },
+    {
       "name": "nai_desktop_releases",
       "url": "https://github.com/YILING0013/nai_desktop_releases",
       "stars": 0,
@@ -195,101 +206,93 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 5462743,
-      "percent": 35.433327562633444
+      "bytes": 5472659,
+      "percent": 34.56952511222215
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 3953606,
+      "percent": 24.97401754811183
     },
     {
       "name": "TypeScript",
       "bytes": 3711353,
-      "percent": 24.0731783555555
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 3603046,
-      "percent": 23.370659967206254
+      "percent": 23.443761201606204
     },
     {
       "name": "Tcl",
       "bytes": 1309383,
-      "percent": 8.493131883367692
+      "percent": 8.271070516181762
     },
     {
       "name": "C#",
       "bytes": 366334,
-      "percent": 2.376174866606348
+      "percent": 2.3140474150610864
     },
     {
       "name": "Rust",
       "bytes": 323733,
-      "percent": 2.0998493672197305
+      "percent": 2.0449467202606653
     },
     {
       "name": "CSS",
-      "bytes": 229728,
-      "percent": 1.4900989254498438
+      "bytes": 283166,
+      "percent": 1.7886943344958086
     },
     {
       "name": "HTML",
       "bytes": 143609,
-      "percent": 0.9314999328985871
+      "percent": 0.9071449421279693
     },
     {
       "name": "Java",
       "bytes": 85310,
-      "percent": 0.5533515258485086
+      "percent": 0.5388836007000749
     },
     {
       "name": "SCSS",
       "bytes": 79489,
-      "percent": 0.5155944137635928
+      "percent": 0.5021136858052779
     },
     {
       "name": "Less",
       "bytes": 78481,
-      "percent": 0.5090561610610339
+      "percent": 0.49574638221243206
     },
     {
       "name": "PowerShell",
       "bytes": 15346,
-      "percent": 0.09953970830701223
+      "percent": 0.09693714378552748
     },
     {
       "name": "Inno Setup",
       "bytes": 3798,
-      "percent": 0.02463520214714143
+      "percent": 0.02399109032304401
     },
     {
       "name": "NSIS",
       "bytes": 2163,
-      "percent": 0.01403000059090756
+      "percent": 0.013663172292981621
     },
     {
       "name": "Lua",
       "bytes": 1256,
-      "percent": 0.008146870430966202
+      "percent": 0.007933862413307867
     },
     {
       "name": "Batchfile",
       "bytes": 1191,
-      "percent": 0.007725256913440086
+      "percent": 0.00752327239988031
     }
   ],
   "days": [
-    {
-      "date": "2025-11-21",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 5,
-      "week": 0,
-      "week_start": "2025-11-21"
-    },
     {
       "date": "2025-11-22",
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-21"
+      "week_start": "2025-11-22"
     },
     {
       "date": "2025-11-23",
@@ -3192,6 +3195,14 @@
       "contributionCount": 4,
       "color": "#216e39",
       "weekday": 5,
+      "week": 52,
+      "week_start": "2026-11-15"
+    },
+    {
+      "date": "2026-11-21",
+      "contributionCount": 5,
+      "color": "#216e39",
+      "weekday": 6,
       "week": 52,
       "week_start": "2026-11-15"
     }
