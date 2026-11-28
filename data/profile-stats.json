@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "login": "YILING0013",
-  "generated_at": "2026-11-27T09:44:18.241006+00:00",
+  "generated_at": "2026-11-28T08:57:19.774015+00:00",
   "period": {
-    "start": "2025-11-27",
-    "end": "2026-11-26",
+    "start": "2025-11-28",
+    "end": "2026-11-27",
     "timezone": "UTC",
     "days": 365
   },
@@ -18,7 +18,7 @@
     ]
   },
   "totals": {
-    "stars": 7152,
+    "stars": 7156,
     "forks": 1171,
     "followers": 225,
     "public_owned_repositories": 15,
@@ -38,7 +38,7 @@
     {
       "name": "AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "stars": 6555,
+      "stars": 6558,
       "forks": 1133,
       "languages": {
         "Python": 4255700,
@@ -136,6 +136,17 @@
       }
     },
     {
+      "name": "ciyu",
+      "url": "https://github.com/YILING0013/ciyu",
+      "stars": 2,
+      "forks": 0,
+      "languages": {
+        "JavaScript": 140975,
+        "CSS": 45528,
+        "Python": 7064
+      }
+    },
+    {
       "name": "image-muddle-web",
       "url": "https://github.com/YILING0013/image-muddle-web",
       "stars": 2,
@@ -152,17 +163,6 @@
       "forks": 0,
       "languages": {
         "Python": 99578
-      }
-    },
-    {
-      "name": "ciyu",
-      "url": "https://github.com/YILING0013/ciyu",
-      "stars": 1,
-      "forks": 0,
-      "languages": {
-        "JavaScript": 140975,
-        "CSS": 45528,
-        "Python": 7064
       }
     },
     {
@@ -287,20 +287,12 @@
   ],
   "days": [
     {
-      "date": "2025-11-27",
-      "contributionCount": 0,
-      "color": "#ebedf0",
-      "weekday": 4,
-      "week": 0,
-      "week_start": "2025-11-27"
-    },
-    {
       "date": "2025-11-28",
       "contributionCount": 1,
       "color": "#9be9a8",
       "weekday": 5,
       "week": 0,
-      "week_start": "2025-11-27"
+      "week_start": "2025-11-28"
     },
     {
       "date": "2025-11-29",
@@ -308,7 +300,7 @@
       "color": "#ebedf0",
       "weekday": 6,
       "week": 0,
-      "week_start": "2025-11-27"
+      "week_start": "2025-11-28"
     },
     {
       "date": "2025-11-30",
@@ -3203,6 +3195,14 @@
       "contributionCount": 0,
       "color": "#ebedf0",
       "weekday": 4,
+      "week": 52,
+      "week_start": "2026-11-22"
+    },
+    {
+      "date": "2026-11-27",
+      "contributionCount": 0,
+      "color": "#ebedf0",
+      "weekday": 5,
       "week": 52,
       "week_start": "2026-11-22"
     }
